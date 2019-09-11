@@ -9,9 +9,15 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🚀 Yenilikler
 
+* 🗽 Hoş Geldin metni eklendi. [Yunus Emre]
+
 * Tüm sınıfları ilgilendiren faydalı notlar eklendi✨ [Yunus Emre]
 
   [🤓 Genel Bilgiler](1%20-%20Genel%20Bilgiler9
+
+### 🌌 Değişikler
+
+* Update 📙 Ders Seçimi.md. [Yunus Emre]
 
 
 ## 1.0 (2019-09-11)
