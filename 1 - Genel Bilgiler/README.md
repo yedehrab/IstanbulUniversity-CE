@@ -1,5 +1,5 @@
 ---
-description: Bölüm hakkındaki faydalı notlar ✨
+description: Tüm sınıfları ilgilendiren faydalı notlar ✨
 ---
 
 # 🤓 Genel Bilgiler
