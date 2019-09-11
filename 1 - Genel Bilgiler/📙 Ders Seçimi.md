@@ -1,5 +1,5 @@
 ---
-description: 🤵 Kişisel ders tavsiyelerim
+description: Kişisel ders tavsiyelerim 🤵
 ---
 
 # 📙 Ders Seçimi
