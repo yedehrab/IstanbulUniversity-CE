@@ -11,6 +11,7 @@
 ![](../../res/can_derleyici2.png)
 <!--Index-->
 
+
 ## Ders İçeriği
 
 - [derleyici1](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/derleyici1.pdf)
@@ -21,7 +22,6 @@
 - [derleyici6](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/derleyici6.pdf)
 - [derleyici7](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/derleyici7.pdf)
 - [derleyici8](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/derleyici8.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/README.md)
 
 
 

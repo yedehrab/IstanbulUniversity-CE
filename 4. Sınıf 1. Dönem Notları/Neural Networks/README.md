@@ -11,6 +11,7 @@
 ![](../../res/can_nn2.png)
 <!--Index-->
 
+
 ## Ders İçeriği
 
 - [NN_Ch1_2018](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/NN_Ch1_2018.pdf)
@@ -18,7 +19,6 @@
 - [NN_Ch5_2018](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/NN_Ch5_2018.pdf)
 - [NN_Ch6_2018](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/NN_Ch6_2018.pdf)
 - [NN_Ch9_2018](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/NN_Ch9_2018.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/README.md)
 
 
 

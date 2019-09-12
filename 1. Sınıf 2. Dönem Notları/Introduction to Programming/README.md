@@ -23,13 +23,13 @@
 [LearningLad C++ Beginner Course]: https://youtu.be/SQHREey_Yuc
 <!--Index-->
 
+
 ## Sınav Soruları
 
 - [Büt 2018 ItP](./S%C4%B1nav%20Sorular%C4%B1/B%C3%BCt%202018%20ItP.pdf)
 - [Büt 2019 ItP](./S%C4%B1nav%20Sorular%C4%B1/B%C3%BCt%202019%20ItP.pdf)
 - [Final 2018 IP](./S%C4%B1nav%20Sorular%C4%B1/Final%202018%20IP.pdf)
 - [Final 2019 ItP](./S%C4%B1nav%20Sorular%C4%B1/Final%202019%20ItP.pdf)
-- [README](./S%C4%B1nav%20Sorular%C4%B1/README.md)
 - [Vize 2017 IP](./S%C4%B1nav%20Sorular%C4%B1/Vize%202017%20IP.pdf)
 
 ## Öğrenci Notları
@@ -38,7 +38,6 @@
 - [Finding Sinus with Taylor Series ~ Eda Nur Var](./%C3%96%C4%9Frenci%20Notlar%C4%B1/Finding%20Sinus%20with%20Taylor%20Series%20~%20Eda%20Nur%20Var.cpp)
 - [Homework 3 ~ Eda Nur Var](./%C3%96%C4%9Frenci%20Notlar%C4%B1/Homework%203%20~%20Eda%20Nur%20Var.cpp)
 - [Multiplying matrices ~ Eda Nur Var](./%C3%96%C4%9Frenci%20Notlar%C4%B1/Multiplying%20matrices%20~%20Eda%20Nur%20Var.cpp)
-- [README](./%C3%96%C4%9Frenci%20Notlar%C4%B1/README.md)
 - [String Class ~ Eda Nur Var](./%C3%96%C4%9Frenci%20Notlar%C4%B1/String%20Class%20~%20Eda%20Nur%20Var.cpp)
 
 

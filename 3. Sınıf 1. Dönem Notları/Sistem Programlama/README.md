@@ -3,6 +3,7 @@
 > Yok 😅
 <!--Index-->
 
+
 ## Ders İçeriği
 
 - [1401779730-4.TEPE_Mayis_2014_Sonuclari](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/1401779730-4.TEPE_Mayis_2014_Sonuclari.pdf)
@@ -14,7 +15,6 @@
 - [lkmpg](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/lkmpg.pdf)
 - [Module Proramming](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Module%20Proramming.pdf)
 - [proc_module](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/proc_module.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/README.md)
 
 ### Kodlar
 
@@ -34,7 +34,6 @@
 - [procfs2](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Kodlar/procfs2.c)
 - [procfs3](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Kodlar/procfs3.c)
 - [readdev](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Kodlar/readdev.c)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Kodlar/README.md)
 - [testebbchar](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Kodlar/testebbchar.c)
 - [writedev](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Kodlar/writedev.c)
 
@@ -62,13 +61,11 @@
 - [ch16_Block Devices](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/LDD3/ch16_Block%20Devices.pdf)
 - [ch17_Network Drivers](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/LDD3/ch17_Network%20Drivers.pdf)
 - [ch18_TTY Drivers](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/LDD3/ch18_TTY%20Drivers.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/LDD3/README.md)
 - [TITLE](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/LDD3/TITLE.pdf)
 
 ## Sınav Soruları
 
 - [Mazeret 2017 SP](./S%C4%B1nav%20Sorular%C4%B1/Mazeret%202017%20SP.pdf)
-- [README](./S%C4%B1nav%20Sorular%C4%B1/README.md)
 
 
 

@@ -80,6 +80,7 @@ Adım adım devreninin çizilimi için aşağıdaki resimleri takip edebilirsin 
 [LTspice MAC]: http://ltspice.linear-tech.com/LTspiceIV.dmg
 <!--Index-->
 
+
 ## Ders İçeriği
 
 
@@ -89,7 +90,6 @@ Adım adım devreninin çizilimi için aşağıdaki resimleri takip edebilirsin 
 - [Ds7](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/Ds7.pdf)
 - [Ds8](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/Ds8.pdf)
 - [Ds9](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/Ds9.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/README.md)
 
 ### Vize
 
@@ -99,7 +99,6 @@ Adım adım devreninin çizilimi için aşağıdaki resimleri takip edebilirsin 
 - [Devreler ve Siztemler](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/Devreler%20ve%20Siztemler.pdf)
 - [ds_1_es](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/ds_1_es.pdf)
 - [Giriş Dersi](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/Giri%C5%9F%20Dersi.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/README.md)
 
 
 

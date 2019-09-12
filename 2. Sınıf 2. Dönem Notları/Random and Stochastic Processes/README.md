@@ -3,9 +3,9 @@
 > Yok 😅
 <!--Index-->
 
+
 ## Ders İçeriği
 
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/README.md)
 - [rsp 1](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/rsp%201.pdf)
 - [rsp 2](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/rsp%202.pdf)
 - [rsp 3](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/rsp%203.pdf)
@@ -16,7 +16,6 @@
 ## Sınav Soruları
 
 - [midterm_solutions](./S%C4%B1nav%20Sorular%C4%B1/midterm_solutions.pdf)
-- [README](./S%C4%B1nav%20Sorular%C4%B1/README.md)
 - [rsp-2013-final](./S%C4%B1nav%20Sorular%C4%B1/rsp-2013-final.pdf)
 - [rsp-2013-midterm-mazeret](./S%C4%B1nav%20Sorular%C4%B1/rsp-2013-midterm-mazeret.pdf)
 - [rsp-2013-midterm-mazeret2](./S%C4%B1nav%20Sorular%C4%B1/rsp-2013-midterm-mazeret2.pdf)

@@ -20,6 +20,7 @@ Final sınavı konu kapsamı:
 > [Network Layer] ve sonrası final için notlarımdır.
 <!--Index-->
 
+
 ## Ders İçeriği
 
 
@@ -29,7 +30,6 @@ Final sınavı konu kapsamı:
 - [HUAWEI-WEEK1-SUBNETTING-ROUTING PROTOCOLS](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/HUAWEI-WEEK1-SUBNETTING-ROUTING%20PROTOCOLS.pdf)
 - [HUAWEI-WEEK2-VLAN-STP-DHCP-INTRODUCTIONTOSDN](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/HUAWEI-WEEK2-VLAN-STP-DHCP-INTRODUCTIONTOSDN.pdf)
 - [HUAWEI-WEEK3](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/HUAWEI-WEEK3.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/README.md)
 
 ### Slaytların Türkçesi
 
@@ -48,7 +48,6 @@ Final sınavı konu kapsamı:
 - [7 Hafta Bağlantı katmanı ve LANs I](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Slaytlar%C4%B1n%20T%C3%BCrk%C3%A7esi/7%20Hafta%20Ba%C4%9Flant%C4%B1%20katman%C4%B1%20ve%20LANs%20I.pdf)
 - [8 Hafta Bağlantı katmanı ve LANs II](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Slaytlar%C4%B1n%20T%C3%BCrk%C3%A7esi/8%20Hafta%20Ba%C4%9Flant%C4%B1%20katman%C4%B1%20ve%20LANs%20II.pdf)
 - [9. UTP Kablolama](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Slaytlar%C4%B1n%20T%C3%BCrk%C3%A7esi/9.%20UTP%20Kablolama.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Slaytlar%C4%B1n%20T%C3%BCrk%C3%A7esi/README.md)
 
 ### Vize
 
@@ -56,7 +55,6 @@ Final sınavı konu kapsamı:
 - [Chapter_2_V7.01](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/Chapter_2_V7.01.pdf)
 - [Chapter_3_V7.01](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/Chapter_3_V7.01.pdf)
 - [Chapter_4_V7.01](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/Chapter_4_V7.01.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/README.md)
 
 ## Sınav Soruları
 
@@ -64,7 +62,6 @@ Final sınavı konu kapsamı:
 - [Final 2015 CNT](./S%C4%B1nav%20Sorular%C4%B1/Final%202015%20CNT.pdf)
 - [Final 2017 CNT](./S%C4%B1nav%20Sorular%C4%B1/Final%202017%20CNT.pdf)
 - [Huawei Sınavı 2019](./S%C4%B1nav%20Sorular%C4%B1/Huawei%20S%C4%B1nav%C4%B1%202019.pdf)
-- [README](./S%C4%B1nav%20Sorular%C4%B1/README.md)
 - [Vize 2016 Örgün CNT](./S%C4%B1nav%20Sorular%C4%B1/Vize%202016%20%C3%96rg%C3%BCn%20CNT.pdf)
 - [Vize 2017 İkili CNT](./S%C4%B1nav%20Sorular%C4%B1/Vize%202017%20%C4%B0kili%20CNT.pdf)
 - [Vize Tam 2014 CNT](./S%C4%B1nav%20Sorular%C4%B1/Vize%20Tam%202014%20CNT.pdf)
@@ -76,7 +73,6 @@ Final sınavı konu kapsamı:
 - [Eski Ch2 Notu](./%C3%96%C4%9Frenci%20Notlar%C4%B1/Eski%20Ch2%20Notu.pdf)
 - [Eski Ch3 Notu](./%C3%96%C4%9Frenci%20Notlar%C4%B1/Eski%20Ch3%20Notu.pdf)
 - [Final Notları CNT ~ YEmreAk](./%C3%96%C4%9Frenci%20Notlar%C4%B1/Final%20Notlar%C4%B1%20CNT%20~%20YEmreAk.pdf)
-- [README](./%C3%96%C4%9Frenci%20Notlar%C4%B1/README.md)
 - [Vize Notları CNT ~ YEmreAk](./%C3%96%C4%9Frenci%20Notlar%C4%B1/Vize%20Notlar%C4%B1%20CNT%20~%20YEmreAk.pdf)
 
 

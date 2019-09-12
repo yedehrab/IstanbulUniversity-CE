@@ -21,6 +21,7 @@
 > Hocanın mesajından alıntıdır.
 <!--Index-->
 
+
 ## Ders İçeriği
 
 
@@ -31,7 +32,6 @@
 - [12-Signal 13.12 - 20181213_111436](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/12-Signal%2013.12%20-%2020181213_111436.pdf)
 - [8-Signal 15.11 - 20181115_153551](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/8-Signal%2015.11%20-%2020181115_153551.pdf)
 - [9-Signal 22.11 - 20181122_102145](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/9-Signal%2022.11%20-%2020181122_102145.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/README.md)
 
 ### Vize
 
@@ -42,16 +42,13 @@
 - [5-Signal 18.10 - 20181018_110825](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/5-Signal%2018.10%20-%2020181018_110825.pdf)
 - [6-Signal 25.10 - 20181026_121107](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/6-Signal%2025.10%20-%2020181026_121107.pdf)
 - [7-Signal 01.11 - 20181101_102728](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/7-Signal%2001.11%20-%2020181101_102728.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/README.md)
 
 ## Sınav Soruları
 
 - [Final 2019 SP](./S%C4%B1nav%20Sorular%C4%B1/Final%202019%20SP.pdf)
-- [README](./S%C4%B1nav%20Sorular%C4%B1/README.md)
 
 ### Eski Tip
 
-- [README](./S%C4%B1nav%20Sorular%C4%B1/Eski%20Tip/README.md)
 - [signal-io-2015-final-solutions](./S%C4%B1nav%20Sorular%C4%B1/Eski%20Tip/signal-io-2015-final-solutions.pdf)
 - [signal-io-2015-final](./S%C4%B1nav%20Sorular%C4%B1/Eski%20Tip/signal-io-2015-final.pdf)
 - [signal-io-2015-midterm-mazeret-solutions](./S%C4%B1nav%20Sorular%C4%B1/Eski%20Tip/signal-io-2015-midterm-mazeret-solutions.pdf)
@@ -91,7 +88,6 @@
 
 - [Ders Notları ~ YEmreAk](./%C3%96%C4%9Frenci%20Notlar%C4%B1/Ders%20Notlar%C4%B1%20~%20YEmreAk.pdf)
 - [Final Formül Kağıdı ~ YEmreAk](./%C3%96%C4%9Frenci%20Notlar%C4%B1/Final%20Form%C3%BCl%20Ka%C4%9F%C4%B1d%C4%B1%20~%20YEmreAk.pdf)
-- [README](./%C3%96%C4%9Frenci%20Notlar%C4%B1/README.md)
 - [Vize Formül Kağıdı ~ YEmreAk](./%C3%96%C4%9Frenci%20Notlar%C4%B1/Vize%20Form%C3%BCl%20Ka%C4%9F%C4%B1d%C4%B1%20~%20YEmreAk.pdf)
 
 

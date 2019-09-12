@@ -44,6 +44,7 @@
 [Diagram Çizme Uygulamaları]: https://www.lucidchart.com/
 <!--Index-->
 
+
 ## Ders İçeriği
 
 
@@ -55,7 +56,6 @@
 - [Ch8](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final%20K%C4%B1sm%C4%B1/Ch8.pdf)
 - [Ch9](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final%20K%C4%B1sm%C4%B1/Ch9.pdf)
 - [Lab Çalışmaları](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final%20K%C4%B1sm%C4%B1/Lab%20%C3%87al%C4%B1%C5%9Fmalar%C4%B1.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final%20K%C4%B1sm%C4%B1/README.md)
 
 ### Vize Kısmı
 
@@ -67,13 +67,11 @@
 - [Ch6](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize%20K%C4%B1sm%C4%B1/Ch6.pdf)
 - [Ch7](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize%20K%C4%B1sm%C4%B1/Ch7.pdf)
 - [Ch8](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize%20K%C4%B1sm%C4%B1/Ch8.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize%20K%C4%B1sm%C4%B1/README.md)
 
 #### Lab Notları
 
 - [3.hafta sequence d](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize%20K%C4%B1sm%C4%B1/Lab%20Notlar%C4%B1/3.hafta%20sequence%20d.pdf)
 - [HW1_Solution](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize%20K%C4%B1sm%C4%B1/Lab%20Notlar%C4%B1/HW1_Solution.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize%20K%C4%B1sm%C4%B1/Lab%20Notlar%C4%B1/README.md)
 - [Software2019-Odev1](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize%20K%C4%B1sm%C4%B1/Lab%20Notlar%C4%B1/Software2019-Odev1.pdf)
 - [SoftwareLab1Hafta](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize%20K%C4%B1sm%C4%B1/Lab%20Notlar%C4%B1/SoftwareLab1Hafta.pdf)
 - [SoftwareLab2Hafta](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize%20K%C4%B1sm%C4%B1/Lab%20Notlar%C4%B1/SoftwareLab2Hafta.pdf)
@@ -87,7 +85,6 @@
 - [ch6](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize%20K%C4%B1sm%C4%B1/Slaytlar%C4%B1n%20T%C3%BCrk%C3%A7esi/ch6.pdf)
 - [ch7](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize%20K%C4%B1sm%C4%B1/Slaytlar%C4%B1n%20T%C3%BCrk%C3%A7esi/ch7.pdf)
 - [ch8](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize%20K%C4%B1sm%C4%B1/Slaytlar%C4%B1n%20T%C3%BCrk%C3%A7esi/ch8.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize%20K%C4%B1sm%C4%B1/Slaytlar%C4%B1n%20T%C3%BCrk%C3%A7esi/README.md)
 
 ## Sınav Soruları
 
@@ -95,7 +92,6 @@
 - [Final 2017 İkili](./S%C4%B1nav%20Sorular%C4%B1/Final%202017%20%C4%B0kili.pdf)
 - [Final 2018 Örgün](./S%C4%B1nav%20Sorular%C4%B1/Final%202018%20%C3%96rg%C3%BCn.pdf)
 - [Final 2019 SE](./S%C4%B1nav%20Sorular%C4%B1/Final%202019%20SE.pdf)
-- [README](./S%C4%B1nav%20Sorular%C4%B1/README.md)
 - [Vize 2017 Örgün](./S%C4%B1nav%20Sorular%C4%B1/Vize%202017%20%C3%96rg%C3%BCn.pdf)
 - [Vize 2017 İkili](./S%C4%B1nav%20Sorular%C4%B1/Vize%202017%20%C4%B0kili.pdf)
 
@@ -103,7 +99,6 @@
 
 - [Final Notları SE ~ YEmreAk](./%C3%96%C4%9Frenci%20Notlar%C4%B1/Final%20Notlar%C4%B1%20SE%20~%20YEmreAk.pdf)
 - [Final Özeti ~ Zeynep](./%C3%96%C4%9Frenci%20Notlar%C4%B1/Final%20%C3%96zeti%20~%20Zeynep.pdf)
-- [README](./%C3%96%C4%9Frenci%20Notlar%C4%B1/README.md)
 - [UML notları ~Yemreak](./%C3%96%C4%9Frenci%20Notlar%C4%B1/UML%20notlar%C4%B1%20~Yemreak.pdf)
 
 

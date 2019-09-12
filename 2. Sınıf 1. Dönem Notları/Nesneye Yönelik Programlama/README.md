@@ -16,6 +16,7 @@
 [Öğrenci Otomasyon Sistemi]: https://github.com/yedhrab/JavaProjects/tree/master/NetBeans-Projects/OgrenciOtomasyonu
 <!--Index-->
 
+
 ## Ders İçeriği
 
 
@@ -23,7 +24,6 @@
 
 - [Ders 4](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/Ders%204.pdf)
 - [Final Lab Çalışmaları](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/Final%20Lab%20%C3%87al%C4%B1%C5%9Fmalar%C4%B1.rar)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/README.md)
 
 ### Vize
 
@@ -33,7 +33,6 @@
 - [Ders 3](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/Ders%203.pdf)
 - [Ders 4](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/Ders%204.pdf)
 - [Ders 5](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/Ders%205.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/README.md)
 
 ## Sınav Soruları
 
@@ -76,7 +75,6 @@
 - [IMG-20171102-WA0007](./S%C4%B1nav%20Sorular%C4%B1/IMG-20171102-WA0007.jpg)
 - [IMG-20171102-WA0009](./S%C4%B1nav%20Sorular%C4%B1/IMG-20171102-WA0009.jpg)
 - [IMG-20171102-WA0010](./S%C4%B1nav%20Sorular%C4%B1/IMG-20171102-WA0010.jpg)
-- [README](./S%C4%B1nav%20Sorular%C4%B1/README.md)
 
 
 

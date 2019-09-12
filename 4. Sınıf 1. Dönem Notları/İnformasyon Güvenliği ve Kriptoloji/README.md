@@ -7,4 +7,7 @@
 [Çan]: ../../res/kripta_can.jpeg
 <!--Index-->
 
+
+
+
 <!--Index-->

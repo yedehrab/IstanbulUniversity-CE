@@ -3,6 +3,7 @@
 > Yok 😅
 <!--Index-->
 
+
 ## Bilişim Proje Geliştirme Formlar vs
 
 - [BilisimProjeGelistirmeOdevKonusu](./Bili%C5%9Fim%20Proje%20Geli%C5%9Ftirme%20Formlar%20vs/BilisimProjeGelistirmeOdevKonusu.pdf)
@@ -10,7 +11,6 @@
 - [DUYURU](./Bili%C5%9Fim%20Proje%20Geli%C5%9Ftirme%20Formlar%20vs/DUYURU.pdf)
 - [OzgurCanTurna_Konu Basliklari](./Bili%C5%9Fim%20Proje%20Geli%C5%9Ftirme%20Formlar%20vs/OzgurCanTurna_Konu%20Basliklari.pdf)
 - [ProjeGelistirmeRaporOrnegi](./Bili%C5%9Fim%20Proje%20Geli%C5%9Ftirme%20Formlar%20vs/ProjeGelistirmeRaporOrnegi.pdf)
-- [README](./Bili%C5%9Fim%20Proje%20Geli%C5%9Ftirme%20Formlar%20vs/README.md)
 
 ## Ders İçeriği
 
@@ -22,7 +22,6 @@
 - [BPG6- Proje_Gelistirme_Planlama ](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/BPG6-%20Proje_Gelistirme_Planlama%20.pdf)
 - [BPG7- Proje_Gelistirme_PlanKalitesi](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/BPG7-%20Proje_Gelistirme_PlanKalitesi.pdf)
 - [BPG8_Tahmin_Yontemleri](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/BPG8_Tahmin_Yontemleri.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/README.md)
 
 
 

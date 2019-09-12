@@ -36,6 +36,7 @@ Hocanın hazırlamış olduğu videolar:
   - ( Fikir oluşması adına )
 <!--Index-->
 
+
 ## Ders İçeriği
 
 - [Faydalı Kitap BOTL](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Faydal%C4%B1%20Kitap%20BOTL.pdf)
@@ -43,19 +44,16 @@ Hocanın hazırlamış olduğu videolar:
 - [Lab3 BOTL](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Lab3%20BOTL.pdf)
 - [Lab4 BOTL](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Lab4%20BOTL.pdf)
 - [Lab5 BOTL](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Lab5%20BOTL.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/README.md)
 
 ## Sınav Soruları
 
 - [Final 2016 BOTL](./S%C4%B1nav%20Sorular%C4%B1/Final%202016%20BOTL.pdf)
 - [Final 2018 BOTL](./S%C4%B1nav%20Sorular%C4%B1/Final%202018%20BOTL.pdf)
 - [Final Karma BOTL](./S%C4%B1nav%20Sorular%C4%B1/Final%20Karma%20BOTL.pdf)
-- [README](./S%C4%B1nav%20Sorular%C4%B1/README.md)
 
 ## Öğrenci Notları
 
 - [Final VHDL ~YEmreAk](./%C3%96%C4%9Frenci%20Notlar%C4%B1/Final%20VHDL%20~YEmreAk.pdf)
-- [README](./%C3%96%C4%9Frenci%20Notlar%C4%B1/README.md)
 - [Soru Çözümler](./%C3%96%C4%9Frenci%20Notlar%C4%B1/Soru%20%C3%87%C3%B6z%C3%BCmler.pdf)
 
 

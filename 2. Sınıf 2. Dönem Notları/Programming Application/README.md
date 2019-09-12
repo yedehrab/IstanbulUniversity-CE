@@ -29,6 +29,7 @@
 [Diyetisyenim]: https://github.com/yedhrab/DiyetisyenimJSF
 <!--Index-->
 
+
 ## Ders İçeriği
 
 
@@ -37,7 +38,6 @@
 - [02mart](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/02mart.pdf)
 - [23.02](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/23.02.pdf)
 - [9mart](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/9mart.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/README.md)
 - [Vize Lab Çalışmalar](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/Vize%20Lab%20%C3%87al%C4%B1%C5%9Fmalar.rar)
 
 ## Sınav Soruları
@@ -77,7 +77,6 @@
 - [programming apps final io 1](./S%C4%B1nav%20Sorular%C4%B1/programming%20apps%20final%20io%201.jpg)
 - [programming apps final io 2](./S%C4%B1nav%20Sorular%C4%B1/programming%20apps%20final%20io%202.jpg)
 - [programming apps final](./S%C4%B1nav%20Sorular%C4%B1/programming%20apps%20final.jpg)
-- [README](./S%C4%B1nav%20Sorular%C4%B1/README.md)
 
 
 

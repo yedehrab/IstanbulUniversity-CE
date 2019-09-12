@@ -19,6 +19,13 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🌌 Değişikler
 
+* 🛰 Tüm indekslemeler yeniden yapılandırıldı. [Yunus Emre]
+
+  😩 Yoğun bir çalışma sonrasında indekleme repoya uygun bir yapıya geçirildi
+  🎈 Notlar daha anlaşılır
+
+* 📂 Harici dosyalar adına geçildi. [Yunus Emre]
+
 * ✨ Özenle Hazırladığım Diğer Dökümanlarım yenilendi. [Yunus Emre]
 
 * Update 📙 Ders Seçimi.md. [Yunus Emre]

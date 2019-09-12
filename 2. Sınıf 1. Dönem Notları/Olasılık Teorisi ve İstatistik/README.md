@@ -8,10 +8,10 @@
 [Final Formül Kağıdı]: ./%C3%96%C4%9Frenci%20Notlar%C4%B1%5CFinal%20Form%C3%BCl%20Ka%C4%9F%C4%B1d%C4%B1%20~%20YEmreAk.pdf
 <!--Index-->
 
+
 ## Ders İçeriği
 
 - [Ders Kitabı OTI](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Ders%20Kitab%C4%B1%20OTI.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/README.md)
 
 ### Final
 
@@ -21,7 +21,6 @@
 - [olasilik-2017-12-01](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/olasilik-2017-12-01.pdf)
 - [olasilik-2017-12-08](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/olasilik-2017-12-08.pdf)
 - [olasilik-2017-12-15](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/olasilik-2017-12-15.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/README.md)
 
 ### Vize
 
@@ -30,7 +29,6 @@
 - [olasilik-2017-10-06](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/olasilik-2017-10-06.pdf)
 - [olasilik-2017-10-13](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/olasilik-2017-10-13.pdf)
 - [olasilik-2017-10-20](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/olasilik-2017-10-20.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/README.md)
 
 ## Sınav Soruları
 
@@ -56,13 +54,11 @@
 - [olasilik-orgun-2016-yilici](./S%C4%B1nav%20Sorular%C4%B1/olasilik-orgun-2016-yilici.pdf)
 - [olasilik-vize-2008](./S%C4%B1nav%20Sorular%C4%B1/olasilik-vize-2008.pdf)
 - [olasilik-vize-2009](./S%C4%B1nav%20Sorular%C4%B1/olasilik-vize-2009.pdf)
-- [README](./S%C4%B1nav%20Sorular%C4%B1/README.md)
 - [surekli-rdler-ornek-sorular](./S%C4%B1nav%20Sorular%C4%B1/surekli-rdler-ornek-sorular.pdf)
 
 ## Öğrenci Notları
 
 - [Final Formül Kağıdı ~ YEmreAk](./%C3%96%C4%9Frenci%20Notlar%C4%B1/Final%20Form%C3%BCl%20Ka%C4%9F%C4%B1d%C4%B1%20~%20YEmreAk.pdf)
-- [README](./%C3%96%C4%9Frenci%20Notlar%C4%B1/README.md)
 
 
 

@@ -90,13 +90,13 @@ Hocanın hazırlamış olduğu videolar:
 [16bit Mips VHDL - Repo]: https://github.com/yedhrab/16BitMipsVHDL
 <!--Index-->
 
+
 ## Ders İçeriği
 
 
 ### 2019 Proje Ödevi
 
 - [Proje 2019 BM](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/2019%20Proje%20%C3%96devi/Proje%202019%20BM.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/2019%20Proje%20%C3%96devi/README.md)
 
 ### Final
 
@@ -106,7 +106,6 @@ Hocanın hazırlamış olduğu videolar:
 - [Bolum_7_MemoryOrganization](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/Bolum_7_MemoryOrganization.pdf)
 - [Bolum_8_IO_Organization](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/Bolum_8_IO_Organization.pdf)
 - [Bolum_9_ComputerArithmetic [Uyumluluk Modu] [Onarılmış]](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/Bolum_9_ComputerArithmetic%20%5BUyumluluk%20Modu%5D%20%5BOnar%C4%B1lm%C4%B1%C5%9F%5D.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/README.md)
 
 ### Vize
 
@@ -117,21 +116,18 @@ Hocanın hazırlamış olduğu videolar:
 - [Bolum_4_SingleCycleProcessor](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/Bolum_4_SingleCycleProcessor.pdf)
 - [Bolum_5_MultiCycleProcessor](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/Bolum_5_MultiCycleProcessor.pdf)
 - [Bolum_6_Pipeline](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/Bolum_6_Pipeline.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/README.md)
 - [Uygulama_A](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/Uygulama_A.pdf)
 
 ## Sınav Soruları
 
 - [Final 2018 BM](./S%C4%B1nav%20Sorular%C4%B1/Final%202018%20BM.pdf)
 - [Orgün Vize BM](./S%C4%B1nav%20Sorular%C4%B1/Org%C3%BCn%20Vize%20BM.pdf)
-- [README](./S%C4%B1nav%20Sorular%C4%B1/README.md)
 - [Çan 2018 BM](./S%C4%B1nav%20Sorular%C4%B1/%C3%87an%202018%20BM.pdf)
 - [İkili Vize BM](./S%C4%B1nav%20Sorular%C4%B1/%C4%B0kili%20Vize%20BM.pdf)
 
 ## Öğrenci Notları
 
 - [Final Notu BM ~ YEmreAk](./%C3%96%C4%9Frenci%20Notlar%C4%B1/Final%20Notu%20BM%20~%20YEmreAk.pdf)
-- [README](./%C3%96%C4%9Frenci%20Notlar%C4%B1/README.md)
 - [Vize Notları BM ~ YEmreAk](./%C3%96%C4%9Frenci%20Notlar%C4%B1/Vize%20Notlar%C4%B1%20BM%20~%20YEmreAk.pdf)
 
 

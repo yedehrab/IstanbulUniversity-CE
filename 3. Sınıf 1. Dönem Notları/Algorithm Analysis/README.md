@@ -37,10 +37,10 @@
 [Insertion Sort]: https://www.youtube.com/watch?v=OGzPmgsI-pQ
 <!--Index-->
 
+
 ## Ders İçeriği
 
 - [Ders Kitabı AA](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Ders%20Kitab%C4%B1%20AA.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/README.md)
 
 ### Final
 
@@ -52,7 +52,6 @@
 - [ALGORITHMS](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/ALGORITHMS.pdf)
 - [GREEDY ALGORITHMS](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/GREEDY%20ALGORITHMS.pdf)
 - [GREEDY ALGORITMS 2](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/GREEDY%20ALGORITMS%202.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/README.md)
 
 ### Vize
 
@@ -61,17 +60,14 @@
 - [ALGORİTMA ANALİZİ VE BİG O](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/ALGOR%C4%B0TMA%20ANAL%C4%B0Z%C4%B0%20VE%20B%C4%B0G%20O.pdf)
 - [ALGORİTMALAR](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/ALGOR%C4%B0TMALAR.pdf)
 - [BİG O](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/B%C4%B0G%20O.pdf)
-- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/README.md)
 
 ## Sınav Soruları
 
 - [Final 2017 AA](./S%C4%B1nav%20Sorular%C4%B1/Final%202017%20AA.pdf)
 - [Final Örnek Soruları 2018 AA](./S%C4%B1nav%20Sorular%C4%B1/Final%20%C3%96rnek%20Sorular%C4%B1%202018%20AA.pdf)
-- [README](./S%C4%B1nav%20Sorular%C4%B1/README.md)
 
 ## Öğrenci Notları
 
-- [README](./%C3%96%C4%9Frenci%20Notlar%C4%B1/README.md)
 - [Vize ve Final Notları AA ~ YEmreAk](./%C3%96%C4%9Frenci%20Notlar%C4%B1/Vize%20ve%20Final%20Notlar%C4%B1%20AA%20~%20YEmreAk.pdf)
 
 
