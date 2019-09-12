@@ -5,3 +5,6 @@
 - Dersin çanına [buradan][Çan] erişebilirsin
 
 [Çan]: ../../res/kripta_can.jpeg
+<!--Index-->
+
+<!--Index-->

@@ -19,3 +19,40 @@
   - [Local Search for CSPs](https://youtu.be/-Ibg2mjqZgQ?t=2227)
 - [Alpha-Beta Puring (minimax)](https://www.youtube.com/watch?v=yo5uok69XyI)
   - [Alternatif (ingilizce)](https://www.youtube.com/watch?v=zp3VMe0Jpf8&t=8s)
+<!--Index-->
+
+## Ders İçeriği
+
+
+### Final
+
+- [Ex CSP](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/Ex%20CSP.pdf)
+- [Ex LocalBeam](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/Ex%20LocalBeam.pdf)
+- [Lec5.InfSearch](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/Lec5.InfSearch.pdf)
+- [Lec6.CSP](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/Lec6.CSP.pdf)
+- [Lec7.Game](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/Lec7.Game.pdf)
+- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/README.md)
+
+### Vize
+
+- [Lec1.Introduction](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/Lec1.Introduction.pdf)
+- [Lec2.Agents](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/Lec2.Agents.pdf)
+- [Lec3.Search1](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/Lec3.Search1.pdf)
+- [Lec4.Search2](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/Lec4.Search2.pdf)
+- [README](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/README.md)
+
+## Sınav Soruları
+
+- [Final 2014 AI](./S%C4%B1nav%20Sorular%C4%B1/Final%202014%20AI.pdf)
+- [Quiz 2012 AI](./S%C4%B1nav%20Sorular%C4%B1/Quiz%202012%20AI.pdf)
+- [README](./S%C4%B1nav%20Sorular%C4%B1/README.md)
+
+## Öğrenci Notları
+
+- [Final Notları AI ~ YEmreAk](./%C3%96%C4%9Frenci%20Notlar%C4%B1/Final%20Notlar%C4%B1%20AI%20~%20YEmreAk.pdf)
+- [README](./%C3%96%C4%9Frenci%20Notlar%C4%B1/README.md)
+- [Vize Notları AI ~ YEmreAk](./%C3%96%C4%9Frenci%20Notlar%C4%B1/Vize%20Notlar%C4%B1%20AI%20~%20YEmreAk.pdf)
+
+
+
+<!--Index-->

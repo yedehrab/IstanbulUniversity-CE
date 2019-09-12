@@ -16,3 +16,13 @@
 - B spline eğrisi büyük N değerlerini bulunuz
 - 4 nokta için *cubic spline* denklemlerini yazınır
 - Piramitin düzeltilmiş hacim matrisini bulunuz
+<!--Index-->
+
+## Sınav Soruları
+
+- [Final BG](./S%C4%B1nav%20Sorular%C4%B1/Final%20BG.pdf)
+- [README](./S%C4%B1nav%20Sorular%C4%B1/README.md)
+
+
+
+<!--Index-->
