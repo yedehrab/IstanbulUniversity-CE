@@ -30,6 +30,10 @@ description: Sitede neler olup bittiğinin raporudur.
 
 * Update 📙 Ders Seçimi.md. [Yunus Emre]
 
+### 📡 Diğerler
+
+* 🧹 Gereksiz linkler temizlendi. [Yunus Emre]
+
 
 ## 1.0 (2019-09-11)
 
