@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [GI01.pdf](./GI01.pdf)
 - [GI02_1.pdf](./GI02_1.pdf)

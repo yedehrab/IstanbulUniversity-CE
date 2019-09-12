@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [Ders 1.pdf](./Ders%201.pdf)
 - [Ders 2.pdf](./Ders%202.pdf)

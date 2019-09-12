@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [Karma DE.pdf](./Karma%20DE.pdf)
 

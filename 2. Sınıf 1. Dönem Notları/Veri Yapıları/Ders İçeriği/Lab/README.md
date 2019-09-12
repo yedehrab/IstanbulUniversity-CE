@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [Dosyalara Erişim Okul.c](./Dosyalara%20Eri%C5%9Fim%20Okul.c)
 - [DoubleLinkedList-Okul.c](./DoubleLinkedList-Okul.c)

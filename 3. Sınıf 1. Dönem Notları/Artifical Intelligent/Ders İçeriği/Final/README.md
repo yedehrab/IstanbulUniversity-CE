@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [Ex CSP.pdf](./Ex%20CSP.pdf)
 - [Ex LocalBeam.pdf](./Ex%20LocalBeam.pdf)

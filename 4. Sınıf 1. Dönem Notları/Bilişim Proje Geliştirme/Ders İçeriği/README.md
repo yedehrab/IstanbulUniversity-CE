@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [BPG1- Giris.pdf](./BPG1-%20Giris.pdf)
 - [BPG2- Proje_Yasam_Dongusu.pdf](./BPG2-%20Proje_Yasam_Dongusu.pdf)

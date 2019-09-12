@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [Ds6.pdf](./Ds6.pdf)
 - [Ds7.pdf](./Ds7.pdf)

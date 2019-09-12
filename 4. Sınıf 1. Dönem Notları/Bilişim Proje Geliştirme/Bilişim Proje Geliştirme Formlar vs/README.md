@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [BilisimProjeGelistirmeOdevKonusu.pdf](./BilisimProjeGelistirmeOdevKonusu.pdf)
 - [BPG_KonuKabulListesi.pdf](./BPG_KonuKabulListesi.pdf)

@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [Adlî Bilişim - 2.pdf](./Adl%C3%AE%20Bili%C5%9Fim%20-%202.pdf)
 - [Adlî Bilişim - 3.pdf](./Adl%C3%AE%20Bili%C5%9Fim%20-%203.pdf)

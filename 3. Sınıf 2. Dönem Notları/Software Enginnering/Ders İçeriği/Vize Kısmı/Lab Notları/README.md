@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [3.hafta sequence d.pdf](./3.hafta%20sequence%20d.pdf)
 - [HW1_Solution.pdf](./HW1_Solution.pdf)

@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [database.sql](./database.sql)
 - [sql-init.sql](./sql-init.sql)

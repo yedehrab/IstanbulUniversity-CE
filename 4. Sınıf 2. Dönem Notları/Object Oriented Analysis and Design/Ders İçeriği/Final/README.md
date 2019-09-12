@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [Lec10.System Architecture.pdf](./Lec10.System%20Architecture.pdf)
 - [Lec11.StateDiagrams.pdf](./Lec11.StateDiagrams.pdf)

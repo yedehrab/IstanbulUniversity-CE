@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [Faydalı Kitap BOTL.pdf](./Faydal%C4%B1%20Kitap%20BOTL.pdf)
 - [Lab2 BOTL.pdf](./Lab2%20BOTL.pdf)

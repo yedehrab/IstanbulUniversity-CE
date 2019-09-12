@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [MATLAB 1.pdf](./MATLAB%201.pdf)
 - [MATLAB 2.pdf](./MATLAB%202.pdf)

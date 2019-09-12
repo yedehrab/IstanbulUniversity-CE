@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [Final 2019 STQ.pdf](./Final%202019%20STQ.pdf)
 - [Final Soru Çözümü STQ.pdf](./Final%20Soru%20%C3%87%C3%B6z%C3%BCm%C3%BC%20STQ.pdf)

@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [BOT 1.pdf](./BOT%201.pdf)
 - [BOT 2.pdf](./BOT%202.pdf)

@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [4_Proses.pdf](./4_Proses.pdf)
 - [5_Is_Parcaciklari.pdf](./5_Is_Parcaciklari.pdf)

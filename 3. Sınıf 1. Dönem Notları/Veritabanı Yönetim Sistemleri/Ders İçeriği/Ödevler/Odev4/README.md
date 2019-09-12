@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [database.sql](./database.sql)
 - [odev4-cozum.odt](./odev4-cozum.odt)

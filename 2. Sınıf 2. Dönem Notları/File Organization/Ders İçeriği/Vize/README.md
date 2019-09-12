@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [BLM252Lecture7.pdf](./BLM252Lecture7.pdf)
 - [Chapter 3 Pages 36-55.pdf](./Chapter%203%20Pages%2036-55.pdf)

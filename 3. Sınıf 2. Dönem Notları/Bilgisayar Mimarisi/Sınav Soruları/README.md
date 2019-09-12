@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [Final 2018 BM.pdf](./Final%202018%20BM.pdf)
 - [Orgün Vize BM.pdf](./Org%C3%BCn%20Vize%20BM.pdf)

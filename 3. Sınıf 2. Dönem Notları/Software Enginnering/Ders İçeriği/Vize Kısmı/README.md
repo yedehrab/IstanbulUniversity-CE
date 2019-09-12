@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [Ch1.pdf](./Ch1.pdf)
 - [Ch2.pdf](./Ch2.pdf)

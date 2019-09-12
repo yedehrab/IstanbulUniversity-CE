@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [6-Surekli Olasilik Dagilimi.pdf](./6-Surekli%20Olasilik%20Dagilimi.pdf)
 - [olasilik-2017-11-17.pdf](./olasilik-2017-11-17.pdf)

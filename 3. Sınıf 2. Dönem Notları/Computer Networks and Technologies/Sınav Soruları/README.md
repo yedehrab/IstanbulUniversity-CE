@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [COMPUTER NETWORKS FACEBOOK.pdf](./COMPUTER%20NETWORKS%20FACEBOOK.pdf)
 - [Final 2015 CNT.pdf](./Final%202015%20CNT.pdf)

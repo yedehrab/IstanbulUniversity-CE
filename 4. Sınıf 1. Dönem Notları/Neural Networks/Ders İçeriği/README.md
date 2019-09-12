@@ -2,7 +2,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [NN_Ch1_2018.pdf](./NN_Ch1_2018.pdf)
 - [NN_Ch4_2018.pdf](./NN_Ch4_2018.pdf)

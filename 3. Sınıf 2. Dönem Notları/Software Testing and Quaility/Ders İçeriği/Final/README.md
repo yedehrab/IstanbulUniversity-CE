@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [ALFA-BETA TESTING.pdf](./ALFA-BETA%20TESTING.pdf)
 - [SIT.pdf](./SIT.pdf)

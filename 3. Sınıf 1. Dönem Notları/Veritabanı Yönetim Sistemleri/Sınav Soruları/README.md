@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [Final Sınav Konuları VYS.pdf](./Final%20S%C4%B1nav%20Konular%C4%B1%20VYS.pdf)
 - [Veritabani2017-ArasinavGece.pdf](./Veritabani2017-ArasinavGece.pdf)

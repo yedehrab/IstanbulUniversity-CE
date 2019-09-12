@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [mongodbjava.rar](./mongodbjava.rar)
 - [Odev5.docx](./Odev5.docx)

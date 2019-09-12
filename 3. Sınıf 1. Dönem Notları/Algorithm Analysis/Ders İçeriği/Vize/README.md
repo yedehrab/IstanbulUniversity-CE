@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [ALGORITHMS.pdf](./ALGORITHMS.pdf)
 - [Algoritma Analizi.pdf](./Algoritma%20Analizi.pdf)

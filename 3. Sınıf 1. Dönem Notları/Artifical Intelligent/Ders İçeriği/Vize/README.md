@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [Lec1.Introduction.pdf](./Lec1.Introduction.pdf)
 - [Lec2.Agents.pdf](./Lec2.Agents.pdf)

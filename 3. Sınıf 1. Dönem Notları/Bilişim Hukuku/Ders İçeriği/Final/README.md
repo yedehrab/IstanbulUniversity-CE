@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [Bilimsel etik ve intihal.pdf](./Bilimsel%20etik%20ve%20intihal.pdf)
 - [BİLİŞİM HUKUKU - GENEL.pdf](./B%C4%B0L%C4%B0%C5%9E%C4%B0M%20HUKUKU%20-%20GENEL.pdf)

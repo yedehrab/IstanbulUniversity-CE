@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [Final 2014 Mikro.pdf](./Final%202014%20Mikro.pdf)
 - [Final 2017 Mikro.pdf](./Final%202017%20Mikro.pdf)

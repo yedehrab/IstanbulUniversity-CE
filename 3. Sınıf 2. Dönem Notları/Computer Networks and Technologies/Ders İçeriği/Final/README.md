@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [Chapter_4_V7.01.pdf](./Chapter_4_V7.01.pdf)
 - [HUAWEI-WEEK1-SUBNETTING-ROUTING PROTOCOLS.pdf](./HUAWEI-WEEK1-SUBNETTING-ROUTING%20PROTOCOLS.pdf)

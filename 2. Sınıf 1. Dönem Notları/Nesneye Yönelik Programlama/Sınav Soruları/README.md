@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [IMG-20171031-WA0015.jpg](./IMG-20171031-WA0015.jpg)
 - [IMG-20171031-WA0025.jpg](./IMG-20171031-WA0025.jpg)

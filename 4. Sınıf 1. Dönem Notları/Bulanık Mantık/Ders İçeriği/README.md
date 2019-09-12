@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [1_Bulanik_Mantik.pdf](./1_Bulanik_Mantik.pdf)
 - [2_Bulanik_Mantik.pdf](./2_Bulanik_Mantik.pdf)

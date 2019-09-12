@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [Eski Ch1 Notu.pdf](./Eski%20Ch1%20Notu.pdf)
 - [Eski Ch2 Notu.pdf](./Eski%20Ch2%20Notu.pdf)

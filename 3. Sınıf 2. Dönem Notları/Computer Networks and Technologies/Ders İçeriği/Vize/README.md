@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [Chapter_1_V7.01.pdf](./Chapter_1_V7.01.pdf)
 - [Chapter_2_V7.01.pdf](./Chapter_2_V7.01.pdf)

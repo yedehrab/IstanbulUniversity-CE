@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [2019_yıliçi_hazırlık.pdf](./2019_y%C4%B1li%C3%A7i_haz%C4%B1rl%C4%B1k.pdf)
 - [Bolum_1_Bilg.Mim_Giris.pdf](./Bolum_1_Bilg.Mim_Giris.pdf)

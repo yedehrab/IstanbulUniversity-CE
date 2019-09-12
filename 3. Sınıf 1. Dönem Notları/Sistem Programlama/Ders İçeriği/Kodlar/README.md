@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [driver.c](./driver.c)
 - [ebbchar.c](./ebbchar.c)

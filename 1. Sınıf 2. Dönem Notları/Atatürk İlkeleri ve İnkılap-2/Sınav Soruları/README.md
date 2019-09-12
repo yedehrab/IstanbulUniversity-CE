@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [1.jpeg](./1.jpeg)
 - [10.jpeg](./10.jpeg)

@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [Binary Tree.c](./Binary%20Tree.c)
 - [Graph MinSpanningTree Kruksal Algo.c](./Graph%20MinSpanningTree%20Kruksal%20Algo.c)

@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [1. hafta .pdf](./1.%20hafta%20.pdf)
 - [2. hafta.pdf](./2.%20hafta.pdf)

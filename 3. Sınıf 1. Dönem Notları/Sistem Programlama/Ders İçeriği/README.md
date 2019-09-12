@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [1401779730-4.TEPE_Mayis_2014_Sonuclari.pdf](./1401779730-4.TEPE_Mayis_2014_Sonuclari.pdf)
 - [A sample Linux Character Device Driver.pdf](./A%20sample%20Linux%20Character%20Device%20Driver.pdf)

@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [signal-io-2015-final-solutions.pdf](./signal-io-2015-final-solutions.pdf)
 - [signal-io-2015-final.pdf](./signal-io-2015-final.pdf)

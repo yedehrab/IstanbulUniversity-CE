@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [Büt 2018 ItP.pdf](./B%C3%BCt%202018%20ItP.pdf)
 - [Büt 2019 ItP.pdf](./B%C3%BCt%202019%20ItP.pdf)

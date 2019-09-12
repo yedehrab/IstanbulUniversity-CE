@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [odev1SQL Kodları.sql](./odev1SQL%20Kodlar%C4%B1.sql)
 - [odev1Çıktısı.sql](./odev1%C3%87%C4%B1kt%C4%B1s%C4%B1.sql)

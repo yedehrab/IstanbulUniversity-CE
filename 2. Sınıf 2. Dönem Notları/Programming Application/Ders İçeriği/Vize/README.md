@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [02mart.pdf](./02mart.pdf)
 - [23.02.pdf](./23.02.pdf)

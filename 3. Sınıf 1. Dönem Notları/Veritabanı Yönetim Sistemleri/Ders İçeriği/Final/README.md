@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [ch23-XML.pdf](./ch23-XML.pdf)
 - [ch7-EntityRelationshipModel.pdf](./ch7-EntityRelationshipModel.pdf)

@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 🔗 Harici Dosyalar
+## 📂 Harici Dosyalar
 
 - [BufferedReader.pdf](./BufferedReader.pdf)
 - [Ders 1.pdf](./Ders%201.pdf)
