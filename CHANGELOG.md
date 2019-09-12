@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🚀 Yenilikler
 
+* 🧪 Computer Science alanı eklendi. [Yunus Emre]
+
 * 🗽 Hoş Geldin metni eklendi. [Yunus Emre]
 
 * Tüm sınıfları ilgilendiren faydalı notlar eklendi✨ [Yunus Emre]
