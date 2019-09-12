@@ -17,6 +17,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🌌 Değişikler
 
+* ✨ Özenle Hazırladığım Diğer Dökümanlarım yenilendi. [Yunus Emre]
+
 * Update 📙 Ders Seçimi.md. [Yunus Emre]
 
 

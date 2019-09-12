@@ -4,6 +4,7 @@
 
 - [🏫 Istanbul University - CE](./README.md)
   - [👀 Neler değişti](./CHANGELOG.md)
+  - [🧪 Computer Science](./0%20-%20Computer%20Science/README.md)
   - [📗 Ortak Notlar](./0%20-%20Ortak%20Notlar/README.md)
   - [🤓 Genel Bilgiler](./1%20-%20Genel%20Bilgiler/README.md)
     - [👨‍🏫 Staj Notları](./1%20-%20Genel%20Bilgiler/%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB%20Staj%20Notlar%C4%B1.md)
