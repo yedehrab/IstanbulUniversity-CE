@@ -59,10 +59,6 @@ description: Sitede neler olup bittiğinin raporudur.
 
 * Yapılacaklar eklendi ✔ [Yunus Emre]
 
-* İçerikler kısmı kaldırıldı 🧹 [Yunus Emre]
-
-  GitBook entegrasyonu olduğundan içerikler otomatik oluşturulmakta ✨
-
 * Resmi saatler eklendi ⌚ [Yunus Emre]
 
 * Duyurular eklendi 📢 [Yunus Emre]
@@ -349,6 +345,10 @@ description: Sitede neler olup bittiğinin raporudur.
 
 * Hata düzeltmeleri yapıldı 🐞 [Yunus Emre]
 
+* İçerikler kısmı kaldırıldı 🧹 [Yunus Emre]
+
+  GitBook entegrasyonu olduğundan içerikler otomatik oluşturulmakta ✨
+
 * Lİnk sorunu giderildi 🐛 [Yunus Emre]
 
 * Windows dosyaları kaldırıldı. [Yunus Emre]
@@ -362,10 +362,6 @@ description: Sitede neler olup bittiğinin raporudur.
 * Yapısal düzenleme 👷 [Yunus Emre]
 
 * Gereksiz bilgi kaldırıldı. [Yunus Emre]
-
-* PDF çıktısının boyutu küçültüldü ⏬ [Yunus Emre]
-
-  Emojilerden kaynaklanan 7 MB'lık artıştan dolayı emojiler kaldırıldı.
 
 * Font sorunu giderildi 👌 [Yunus Emre]
 
@@ -476,6 +472,10 @@ description: Sitede neler olup bittiğinin raporudur.
 * Yeni Ders Notu. [Yunus Emre]
 
   Object Orianted & Anylasis için 4.sınıf  © grubuna atılan notlar.
+
+* PDF çıktısının boyutu küçültüldü ⏬ [Yunus Emre]
+
+  Emojilerden kaynaklanan 7 MB'lık artıştan dolayı emojiler kaldırıldı.
 
 * ✍ [Yunus Emre]
 
