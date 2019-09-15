@@ -1,6 +1,6 @@
 # Mikroişlemciler 
 
-> Yok 😅
+
 <!--Index-->
 
 

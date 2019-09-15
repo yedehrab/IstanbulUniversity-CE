@@ -1,6 +1,6 @@
 # Calculus 2 
 
-> Yok 😅
+
 <!--Index-->
 
 

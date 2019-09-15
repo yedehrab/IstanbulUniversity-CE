@@ -1,6 +1,6 @@
 # Bilişim Proje Geliştirme 
 
-> Yok 😅
+
 <!--Index-->
 
 

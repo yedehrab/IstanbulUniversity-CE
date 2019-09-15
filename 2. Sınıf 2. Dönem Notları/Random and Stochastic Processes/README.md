@@ -1,6 +1,6 @@
 # Random and Stochastic Processes 
 
-> Yok 😅
+
 <!--Index-->
 
 

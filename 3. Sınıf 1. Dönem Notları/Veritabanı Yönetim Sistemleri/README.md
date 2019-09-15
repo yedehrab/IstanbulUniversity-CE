@@ -1,6 +1,6 @@
 # Veritabanı Yönetim Sistemleri 
 
-> Yok 😅
+
 <!--Index-->
 
 

@@ -1,6 +1,6 @@
 # Bilgisayar Organizasyonu ve Tasarımı 
 
-> Yok 😅
+
 <!--Index-->
 
 

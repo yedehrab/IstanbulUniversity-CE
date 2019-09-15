@@ -1,6 +1,6 @@
 # Sistem Programlama 
 
-> Yok 😅
+
 <!--Index-->
 
 

@@ -1,6 +1,6 @@
 # Bilişim Hukuku 
 
-> Yok 😅
+
 <!--Index-->
 
 

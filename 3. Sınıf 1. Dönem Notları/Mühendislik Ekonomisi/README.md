@@ -1,6 +1,6 @@
 # Mühendislik Ekonomisi 
 
-> Yok 😅
+
 <!--Index-->
 
 

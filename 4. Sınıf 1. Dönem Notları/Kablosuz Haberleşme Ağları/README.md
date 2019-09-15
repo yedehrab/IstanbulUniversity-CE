@@ -1,6 +1,6 @@
 # Kablosuz Haberleşme Ağları 
 
-> Yok 😅
+
 <!--Index-->
 
 
