@@ -67,5 +67,3 @@ Java, PHP, Ruby, Python, JavaScript, Kotlin, Objective-C, or .NET teknolojileri 
 [securew2 talimatlar]: http://cdn.istanbul.edu.tr/FileHandler2.ashx?f=eduroam-securew2-win8.pdf
 [jetbrains detay]: https://www.jetbrains.com/shop/eform/students
 [jetbrains kayıt]: https://www.jetbrains.com/shop/eform/students
-
-> Tüm hakları saklıdır © ~ Yunus Emre Ak
