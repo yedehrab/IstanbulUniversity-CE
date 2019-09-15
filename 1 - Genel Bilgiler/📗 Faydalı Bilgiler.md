@@ -2,6 +2,8 @@
 
 ## Eğitmen Bilgileri
 
+Resmi site üzerinden erişmek için [buraya](https://bilgisayarmuhendislik.istanbulc.edu.tr/tr/akademikkadro) bakabilrisin.
+
 | Eğitmen         | İletişim                 |
 | --------------- | ------------------------ |
 | Özgür Can Turna | ozcantur@istanbul.edu.tr |
