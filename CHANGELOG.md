@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🚀 Yenilikler
 
+* Eğitmen Bilgileri için link eklendi. [Yunus Emre]
+
 * 🧪 Computer Science alanı eklendi. [Yunus Emre]
 
 * 🗽 Hoş Geldin metni eklendi. [Yunus Emre]
@@ -29,6 +31,10 @@ description: Sitede neler olup bittiğinin raporudur.
 * ✨ Özenle Hazırladığım Diğer Dökümanlarım yenilendi. [Yunus Emre]
 
 * Update 📙 Ders Seçimi.md. [Yunus Emre]
+
+### 🗽 Düzeltmeler
+
+* 🧹 Derslerin altında yazan "Yok 😅" yazısı kaldırıldı. [Yunus Emre]
 
 ### 📡 Diğerler
 
