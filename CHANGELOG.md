@@ -56,6 +56,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🗽 Düzeltmeler
 
+* Ufak düzenleme (önemsiz) [Yunus Emre]
+
 * 🏗 Sayfalar Tasarımı ve Notların Tutulma Yapısı hakkında ek notlar ve düzenlemeler. [Yunus Emre]
 
 * 🐞 Sayfaların gözükmeme sorunu giderildi. [Yunus Emre]
