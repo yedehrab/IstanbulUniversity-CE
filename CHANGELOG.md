@@ -23,6 +23,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🌌 Değişikler
 
+* Mobile Programming notları yenilendi. [Yunus Emre]
+
 * Update 🤑 Ücretsiz Yazılımlar.md. [Yunus Emre]
 
 * Staj Notları yenilendi. [Yunus Emre]

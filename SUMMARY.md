@@ -66,7 +66,7 @@
     - [Derleyici Tasarımı](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Derleyici%20Tasar%C4%B1m%C4%B1/README.md)
     - [Kablosuz Haberleşme Ağları](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Kablosuz%20Haberle%C5%9Fme%20A%C4%9Flar%C4%B1/README.md)
     - [Matlab](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Matlab/README.md)
-    - [Mobile Programming](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Mobile%20Programming/README.md)
+    - [📱 Mobile Programming](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Mobile%20Programming/README.md)
     - [Neural Networks](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Neural%20Networks/README.md)
     - [İnformasyon Güvenliği ve Kriptoloji](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/%C4%B0nformasyon%20G%C3%BCvenli%C4%9Fi%20ve%20Kriptoloji/README.md)
   - [📚 4. Sınıf 2. Dönem Notları](./4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/README.md)
