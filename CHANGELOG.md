@@ -21,6 +21,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🌌 Değişikler
 
+* Staj Notları yenilendi. [Yunus Emre]
+
 * 🛰 Tüm indekslemeler yeniden yapılandırıldı. [Yunus Emre]
 
   😩 Yoğun bir çalışma sonrasında indekleme repoya uygun bir yapıya geçirildi
