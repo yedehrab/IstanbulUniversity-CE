@@ -13,8 +13,8 @@ Github öğrenciler için ücretsiz **pro** faydaları sağlamaktadır.
 
 > Pro avantajları için [buraya][benefits] bakabilirsin.
 
+- Öğrenciler için sunulan diğer faydalara [buradan][github dev pack] erişebilirsin
 - Kayıt ve detaylı işlemler için [buraya][github student] bakabilirsin.
-- Öğrenciler için hazırladığı faydalara [buradan][github dev pack] erişebilirsin
 
 ### Github Toplulukları
 
@@ -53,7 +53,7 @@ Java, PHP, Ruby, Python, JavaScript, Kotlin, Objective-C, or .NET teknolojileri 
 
 [benefits]: https://education.github.com/benefits/offers
 [github student]: https://education.github.com/students
-[github dev pack]: https://education.github.com/pack/offers
+[github dev pack]: https://education.github.com/pack#offers
 [github comminity]: https://education.github.community/c/students
 [github octodex]: https://octodex.github.com/
 [github education school]: https://education.github.com/partners/schools
