@@ -23,6 +23,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🌌 Değişikler
 
+* Update 🤑 Ücretsiz Yazılımlar.md. [Yunus Emre]
+
 * Staj Notları yenilendi. [Yunus Emre]
 
 * 🛰 Tüm indekslemeler yeniden yapılandırıldı. [Yunus Emre]

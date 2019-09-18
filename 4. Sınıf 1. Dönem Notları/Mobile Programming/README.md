@@ -1,16 +1,19 @@
-# Mobile Programming 
+# 📱 Mobile Programming 
 
-## Harf Notu
+## 🗽 Açıklama
 
-### 2017 - 2018 Çan
+- Ders android tabanlı ilerlemektedir
+- Android 4.0 sürümü temel alınacaktır
 
-![](../../res/can_mobile_prom.png)
+> Android notlarım için [buraya](https://android.yemreak.com) bakabilirsin
 
-### 2018 - 2019 Çan
-
-![](../../res/can_mobile_prom_bitirme.png)
 <!--Index-->
 
+
+## Harf Notu Dağılımı
+
+- [Çan 2017](./Harf%20Notu%20Da%C4%9F%C4%B1l%C4%B1m%C4%B1/%C3%87an%202017.png)
+- [Çan 2018 Bitirme Sınavı](./Harf%20Notu%20Da%C4%9F%C4%B1l%C4%B1m%C4%B1/%C3%87an%202018%20Bitirme%20S%C4%B1nav%C4%B1.png)
 
 ## Sınav Soruları
 
