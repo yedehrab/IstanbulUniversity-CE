@@ -27,6 +27,10 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🌌 Değişikler
 
+* Update README.md. [Yunus Emre]
+
+* Update README.md. [Yunus Emre]
+
 * Update İlk Günki Quiz Soruları ve Cevapları.md. [Yunus Emre]
 
 * Bulanık mantık sayfası güncellendi. [Yunus Emre]
