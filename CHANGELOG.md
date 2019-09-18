@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🚀 Yenilikler
 
+* 📜 Kriptoloji dersinin ilk gününde yapılan quiz soruları ve cevapları eklendi. [Yunus Emre]
+
 * Kriptoloji İlk Gün Yapılan Quiz'in Soruları eklendi. [Yunus Emre]
 
 * Eğitmen Bilgileri için link eklendi. [Yunus Emre]
@@ -41,6 +43,8 @@ description: Sitede neler olup bittiğinin raporudur.
 * Update 📙 Ders Seçimi.md. [Yunus Emre]
 
 ### 🗽 Düzeltmeler
+
+* 🏗 Ufak yapı düzeltemesi. [Yunus Emre]
 
 * Önemsiz düzeltme. [Yunus Emre]
 
