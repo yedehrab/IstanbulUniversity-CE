@@ -91,37 +91,3 @@
 [Tümleştirilmiş K.D]: http://kisi.deu.edu.tr//ozlem.karaca/s04_2.pdf
 [Ardışıl Lojik Devreler (Flip Flop / Moore / ...)]: http://www.yildiz.edu.tr/~uzun/LD_PDF/PLDT_06_ArdisilLojikDevre.pdf
 [A/Synchronized Counter With Load / Clear]: https://www.tutorialspoint.com/sequential_circuit_design/design_of_mod6_counter_using_load_and_clear.asp
-<!--Index-->
-
-
-## Ders İçeriği
-
-
-### Final
-
-- [Ders_BIMU2005_Chapter-8-PLD_20161226_554](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/Ders_BIMU2005_Chapter-8-PLD_20161226_554.pdf)
-- [Ders_BIMU2005_Chapter5_SEQ_CIR_DESIGN_20171122_717 (1)](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/Ders_BIMU2005_Chapter5_SEQ_CIR_DESIGN_20171122_717%20%281%29.pdf)
-- [Ders_BIMU2005_Chapter6_COUNTERS_20171128_395](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/Ders_BIMU2005_Chapter6_COUNTERS_20171128_395.pdf)
-- [Ders_BIMU2005_Chapter7-registers_20171205_546](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/Ders_BIMU2005_Chapter7-registers_20171205_546.pdf)
-
-### Vize
-
-- [1. hafta ](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/1.%20hafta%20.pdf)
-- [2. hafta](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/2.%20hafta.pdf)
-- [3. hafta](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/3.%20hafta.pdf)
-- [Ders_BIMU2005_Chapter 4 Combinational Logic_20171024_182](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/Ders_BIMU2005_Chapter%204%20Combinational%20Logic_20171024_182.pdf)
-
-## Sınav Soruları
-
-- [Final 2016 LDT İkinci Öğretim](./S%C4%B1nav%20Sorular%C4%B1/Final%202016%20LDT%20%C4%B0kinci%20%C3%96%C4%9Fretim.pdf)
-- [Final 2016 LDT](./S%C4%B1nav%20Sorular%C4%B1/Final%202016%20LDT.pdf)
-- [Final İkinci Öğretim LDT](./S%C4%B1nav%20Sorular%C4%B1/Final%20%C4%B0kinci%20%C3%96%C4%9Fretim%20LDT.pdf)
-- [Hazırlık 2018 LDT](./S%C4%B1nav%20Sorular%C4%B1/Haz%C4%B1rl%C4%B1k%202018%20LDT.pdf)
-
-## Öğrenci Notları
-
-- [Ders Notları ~ YEmreAk](./%C3%96%C4%9Frenci%20Notlar%C4%B1/Ders%20Notlar%C4%B1%20~%20YEmreAk.pdf)
-
-
-
-<!--Index-->

@@ -78,28 +78,3 @@ Adım adım devreninin çizilimi için aşağıdaki resimleri takip edebilirsin 
 [LTspice Website]: http://www.linear.com/designtools/software/
 [LTspice Windows]: http://ltspice.linear-tech.com/software/LTspiceXVII.exe
 [LTspice MAC]: http://ltspice.linear-tech.com/LTspiceIV.dmg
-<!--Index-->
-
-
-## Ders İçeriği
-
-
-### Final
-
-- [Ds6](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/Ds6.pdf)
-- [Ds7](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/Ds7.pdf)
-- [Ds8](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/Ds8.pdf)
-- [Ds9](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/Ds9.pdf)
-
-### Vize
-
-- [2. hafta](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/2.%20hafta.pdf)
-- [3.hafta](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/3.hafta.pdf)
-- [Devreler ve sistemler ](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/Devreler%20ve%20sistemler%20.pdf)
-- [Devreler ve Siztemler](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/Devreler%20ve%20Siztemler.pdf)
-- [ds_1_es](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/ds_1_es.pdf)
-- [Giriş Dersi](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Vize/Giri%C5%9F%20Dersi.pdf)
-
-
-
-<!--Index-->

@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🚀 Yenilikler
 
+* Kriptoloji dersinin ilk gününde yapılan quiz soruları ve cevapları eklendi. [Yunus Emre]
+
 * 📜 Kriptoloji dersinin ilk gününde yapılan quiz soruları ve cevapları eklendi. [Yunus Emre]
 
 * Kriptoloji İlk Gün Yapılan Quiz'in Soruları eklendi. [Yunus Emre]
