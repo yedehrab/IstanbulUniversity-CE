@@ -15,7 +15,7 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını 
 - Yani hep güncel kalacak denebilir 🚀
 - İyi okumalar 👻
 
-### 🏗 Sayfalar Tasarımı ve Notların Tutulma Yapısı
+### 👷‍ Sayfaların Tasarımı ve Notların Tutulma Yapısı
 
 ```txt
 - Dönem
