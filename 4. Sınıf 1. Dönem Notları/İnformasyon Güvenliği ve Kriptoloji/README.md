@@ -6,17 +6,12 @@
 
 [Çan]: ../../res/kripta_can.jpeg
 
-## İlk Gün Yapılan Quiz'in Soruları
-
-- 3^-1 (mod 5)
-- 3^-1 (mod 6)
-- Cryptolocker ve Bad rabbit nedir?
-- Blockchain nedir, neden kullanılır?
-- RSA ve AES arasında temel fark nedir?
-- Kırılamayan sistem olabilir mi?
-
 <!--Index-->
 
+
+## Öğrenci Notları
+
+- [📜 İlk Günki Quiz Soruları ve Cevapları](./%C3%96%C4%9Frenci%20Notlar%C4%B1/%C4%B0lk%20G%C3%BCnki%20Quiz%20Sorular%C4%B1%20ve%20Cevaplar%C4%B1.md)
 
 
 
