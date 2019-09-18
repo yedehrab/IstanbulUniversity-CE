@@ -34,6 +34,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🗽 Düzeltmeler
 
+* Önemsiz düzeltme. [Yunus Emre]
+
 * 🧹 Derslerin altında yazan "Yok 😅" yazısı kaldırıldı. [Yunus Emre]
 
 ### 📡 Diğerler
