@@ -27,6 +27,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🌌 Değişikler
 
+* Yapı kökten değişti ve iyileştirildi 🚀 [Yunus Emre]
+
 * Mobile Programming notları yenilendi. [Yunus Emre]
 
 * Update 🤑 Ücretsiz Yazılımlar.md. [Yunus Emre]
@@ -45,6 +47,8 @@ description: Sitede neler olup bittiğinin raporudur.
 * Update 📙 Ders Seçimi.md. [Yunus Emre]
 
 ### 🗽 Düzeltmeler
+
+* 🐞 Sayfaların gözükmeme sorunu giderildi. [Yunus Emre]
 
 * 🏗 Ufak yapı düzeltemesi. [Yunus Emre]
 
