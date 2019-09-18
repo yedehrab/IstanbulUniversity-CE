@@ -27,6 +27,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🌌 Değişikler
 
+* Bulanık mantık sayfası güncellendi. [Yunus Emre]
+
 * Yapı kökten değişti ve iyileştirildi 🚀 [Yunus Emre]
 
 * Mobile Programming notları yenilendi. [Yunus Emre]
