@@ -27,6 +27,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🌌 Değişikler
 
+* Update İlk Günki Quiz Soruları ve Cevapları.md. [Yunus Emre]
+
 * Bulanık mantık sayfası güncellendi. [Yunus Emre]
 
 * Yapı kökten değişti ve iyileştirildi 🚀 [Yunus Emre]
