@@ -15,6 +15,20 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını 
 - Yani hep güncel kalacak denebilir 🚀
 - İyi okumalar 👻
 
+### 🏗 Sayfalar Tasarımı ve Notların Tutulma Yapısı
+
+```txt
+- Dönem
+  - Dersin Adı
+    - Öğrenci Notları
+    - Ders Notları
+    - Lab Notları
+    - Diğer notları
+    - ...
+  - ...
+- ...
+```
+
 ## 📢 Duyurular
 
 - [YEmreAk](https://yemreak.com/) domainine bağlandı 🚀
