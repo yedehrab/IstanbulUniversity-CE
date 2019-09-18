@@ -72,6 +72,7 @@
       - [Vize](./2.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Bilgisayar%20Organizasyonu%20ve%20Tasar%C4%B1m%C4%B1/Vize.md)
     - [File Organization](./2.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/File%20Organization/README.md)
       - [Final](./2.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/File%20Organization/Final.md)
+      - [Genel Bilgiler](./2.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/File%20Organization/Genel%20Bilgiler.md)
       - [Sınav Soruları](./2.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/File%20Organization/S%C4%B1nav%20Sorular%C4%B1.md)
       - [Vize](./2.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/File%20Organization/Vize.md)
       - [Öğrenci Notları](./2.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/File%20Organization/%C3%96%C4%9Frenci%20Notlar%C4%B1.md)
