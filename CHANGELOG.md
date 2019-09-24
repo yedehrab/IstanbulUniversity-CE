@@ -13,6 +13,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🗽 Düzeltmeler
 
+* 🐞 Ufak sorunlar giderildi. [Yunus Emre]
+
 * ✍ Yazım hataları giderildi. [Yunus Emre]
 
 * Ufak düzenleme (önemsiz) [Yunus Emre]
