@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🚀 Yenilikler
 
+* 4.sınıf 1.dönem dersleri için duyurular eklendi. [Yunus Emre]
+
 * 🚀 Kripto 2.hafta notları eklendi. [Yunus Emre]
 
 * 🗽 İndekslemeler eklendi. [Yunus Emre]
