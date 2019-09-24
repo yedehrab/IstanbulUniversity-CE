@@ -206,7 +206,7 @@
       - [Sınav Soruları](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Mobile%20Programming/S%C4%B1nav%20Sorular%C4%B1.md)
     - [Neural Networks](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Neural%20Networks/README.md)
       - [Ders İçeriği](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Neural%20Networks/Ders%20%C4%B0%C3%A7eri%C4%9Fi.md)
-    - [İnformasyon Güvenliği ve Kriptoloji](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/%C4%B0nformasyon%20G%C3%BCvenli%C4%9Fi%20ve%20Kriptoloji/README.md)
+    - [🔑 İnformasyon Güvenliği ve Kriptoloji](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/%C4%B0nformasyon%20G%C3%BCvenli%C4%9Fi%20ve%20Kriptoloji/README.md)
       - [Harf Notları](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/%C4%B0nformasyon%20G%C3%BCvenli%C4%9Fi%20ve%20Kriptoloji/Harf%20Notlar%C4%B1.md)
       - [Öğrenci Notları](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/%C4%B0nformasyon%20G%C3%BCvenli%C4%9Fi%20ve%20Kriptoloji/%C3%96%C4%9Frenci%20Notlar%C4%B1.md)
       - [📜 İlk Günki Quiz Soruları ve Cevapları](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/%C4%B0nformasyon%20G%C3%BCvenli%C4%9Fi%20ve%20Kriptoloji/%C4%B0lk%20G%C3%BCnki%20Quiz%20Sorular%C4%B1%20ve%20Cevaplar%C4%B1.md)
