@@ -1,5 +1,7 @@
 # Sınav Soruları
 
+<!--Index-->
+
 - [Ayrık olasılık daılım](./S%C4%B1nav%20Sorular%C4%B1/Ayr%C4%B1k%20olas%C4%B1l%C4%B1k%20da%C4%B1l%C4%B1m.pdf)
 - [olasilik-2010-final-cozumler](./S%C4%B1nav%20Sorular%C4%B1/olasilik-2010-final-cozumler.pdf)
 - [olasilik-2010-final](./S%C4%B1nav%20Sorular%C4%B1/olasilik-2010-final.pdf)
@@ -23,3 +25,5 @@
 - [olasilik-vize-2008](./S%C4%B1nav%20Sorular%C4%B1/olasilik-vize-2008.pdf)
 - [olasilik-vize-2009](./S%C4%B1nav%20Sorular%C4%B1/olasilik-vize-2009.pdf)
 - [surekli-rdler-ornek-sorular](./S%C4%B1nav%20Sorular%C4%B1/surekli-rdler-ornek-sorular.pdf)
+
+<!--Index-->

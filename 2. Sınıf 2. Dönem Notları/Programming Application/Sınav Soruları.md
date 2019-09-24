@@ -1,5 +1,7 @@
 # Sınav Soruları
 
+<!--Index-->
+
 - [12321440_10208061083697786_747689446661251739_n](./S%C4%B1nav%20Sorular%C4%B1/12321440_10208061083697786_747689446661251739_n.jpg)
 - [12512429_10208061083497781_557166734878632662_n](./S%C4%B1nav%20Sorular%C4%B1/12512429_10208061083497781_557166734878632662_n.jpg)
 - [12888667_10208061038976668_8413922426385218247_o](./S%C4%B1nav%20Sorular%C4%B1/12888667_10208061038976668_8413922426385218247_o.jpg)
@@ -35,3 +37,5 @@
 - [programming apps final io 1](./S%C4%B1nav%20Sorular%C4%B1/programming%20apps%20final%20io%201.jpg)
 - [programming apps final io 2](./S%C4%B1nav%20Sorular%C4%B1/programming%20apps%20final%20io%202.jpg)
 - [programming apps final](./S%C4%B1nav%20Sorular%C4%B1/programming%20apps%20final.jpg)
+
+<!--Index-->

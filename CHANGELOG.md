@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🗽 Düzeltmeler
 
+* ✍ Yazım hataları giderildi. [Yunus Emre]
+
 * Ufak düzenleme (önemsiz) [Yunus Emre]
 
 
