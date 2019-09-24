@@ -7,6 +7,10 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ## ✨ Güncel
 
+### 🚀 Yenilikler
+
+* 🗽 İndekslemeler eklendi. [Yunus Emre]
+
 ### 🗽 Düzeltmeler
 
 * ✍ Yazım hataları giderildi. [Yunus Emre]
