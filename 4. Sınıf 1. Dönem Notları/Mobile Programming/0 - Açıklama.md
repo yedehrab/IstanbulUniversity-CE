@@ -8,3 +8,5 @@
 ## 📢 Duyurular
 
 - Ders **LAB** yerine **D521**'de işlenmektedir.
+- 📧 Mail grubu linkine [buradan](https://groups.google.com/forum/#!forum/iuce_mobile_programming/join) erişebilirsin
+- [👨‍🏫 Classroom](https://classroom.google.com) kodu `xxvyra6`
