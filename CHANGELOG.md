@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🚀 Yenilikler
 
+* 🚀 Kripto 2.hafta notları eklendi. [Yunus Emre]
+
 * 🗽 İndekslemeler eklendi. [Yunus Emre]
 
 ### 🗽 Düzeltmeler
