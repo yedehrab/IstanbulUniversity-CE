@@ -1,4 +1,4 @@
-# Software Enginnering 
+# 🏗 Temel Bilgiler
 
 ## Ders Bilgileri
 

@@ -1,4 +1,4 @@
-# Operation Systems 
+# 📜 Sınav Bilgileri
 
 ## Vize Bilgileri
 

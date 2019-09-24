@@ -1,2 +1,0 @@
-# Calculus - 1
-
