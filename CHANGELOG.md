@@ -13,6 +13,10 @@ description: Sitede neler olup bittiğinin raporudur.
 
 * 🗽 İndekslemeler eklendi. [Yunus Emre]
 
+### 🌌 Değişikler
+
+* 🔑 İnformasyon Güvenliği ve Kriptoloji başlığı değiştirildi. [Yunus Emre]
+
 ### 🗽 Düzeltmeler
 
 * 🐞 Ufak sorunlar giderildi. [Yunus Emre]
