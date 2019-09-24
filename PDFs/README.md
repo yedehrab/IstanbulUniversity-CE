@@ -3,7 +3,7 @@
 
 <!--Index-->
 
-## 5.1 Karışık Notlar
+## 📂 Harici Dosyalar
 
 - [Head First Java.pdf](./Head%20First%20Java.pdf)
 - [Java How to Program.pdf](./Java%20How%20to%20Program.pdf)
