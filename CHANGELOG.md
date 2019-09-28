@@ -9,6 +9,12 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🚀 Yenilikler
 
+* 🗒 Ders notlarım eklendi. [Yunus Emre]
+
+  - Yöneylem
+  - Bİlişim proje geliştirme
+  - Neural Network
+
 * Mobile Programming duyuruları eklendi. [Yunus Emre]
 
 * 4.sınıf 1.dönem dersleri için duyurular eklendi. [Yunus Emre]
