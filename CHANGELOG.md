@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🚀 Yenilikler
 
+* NN için ufak düzeltmeler ve notlar eklendi. [Yunus Emre]
+
 * 🗒 Ders notlarım eklendi. [Yunus Emre]
 
   - Yöneylem
