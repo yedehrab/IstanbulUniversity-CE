@@ -1,7 +1,9 @@
 # Öğrenci Notları
 
+⚠ Notlarda eksiklikler olabilir. (Hiç yoktan iyidir, diye atıldı 🙄)
+
 <!--Index-->
 
-- [Neural Network 2.hafta ~YEmreAk](./%C3%96%C4%9Frenci%20Notlar%C4%B1/Neural%20Network%202.hafta%20~YEmreAk.pdf)
+- [NN 2. Hafta ~ YEmreAk](./%C3%96%C4%9Frenci%20Notlar%C4%B1/NN%202.%20Hafta%20~%20YEmreAk.pdf)
 
 <!--Index-->
