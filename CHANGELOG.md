@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🚀 Yenilikler
 
+* Kriptoloji 3. Hafta Ders Notlarım eklendi. [Yunus Emre]
+
 * ✨ Son Güncellemeler (🧪 Deneysel) yapısı eklendi. [Yunus Emre]
 
 * Eduroamda Çalışan VPN eklendi. [Yunus Emre]
