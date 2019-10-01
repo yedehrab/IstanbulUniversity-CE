@@ -7,10 +7,6 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını 
 ## 🗽 Hoş Geldin
 
 - Sağ üstteki [🔍 Arama Buton](https://iuce.yemreak.com/?q=)'nu kullanmayı asla ama asla ihmal etme
-- En son gelen güncellemeleri [👀 Neler Değişti](./CHANGELOG.md) veya [✨ Commits](https://github.com/yedhrab/IstanbulUniversity-CE/commits/master) alanından takip edebilirsin
-- Tavsiyelerin veya hata tespitlerin varsa [🦋 Issue](https://github.com/yedhrab/IstanbulUniversity-CE/issues) açabilirsin
-- **Yapıcı** eleştiricileriniz veya fikirleriniz varsa sağ üst köşedeki  **[👉 Edit on Github](%F0%9F%93%99%20Ders%20Se%C3%A7imi.md)** alanından fikirlerinizi belitebilirsiniz
-  - Formata (`markdown`'a) uygun şekilde öneride bulunursanız hoş olur 😊
 - 🌊 Yeni bilgiler öğrenmemle birlikle güncellenecektir
 - Yani hep güncel kalacak denebilir 🚀
 - İyi okumalar 👻
@@ -35,11 +31,6 @@ En son gelen güncellemeleri [👀 Neler Değişti](./CHANGELOG.md) veya [✨ Co
   - ...
 - ...
 ```
-
-## 📢 Duyurular
-
-- [YEmreAk](https://yemreak.com/) domainine bağlandı 🚀
-- Ders seçimi tarihi **9 Eylül Saat: 14:00**'dür ([duyurusu](https://muhendislik.istanbulc.edu.tr/tr/duyuru/kayit-yenileme-duyurusu-47004A00510070006300530071006F005F0052006A0039007900700046006200610041004F003200370077003200))
 
 ## 🌳 Temel Bilgiler
 
@@ -66,12 +57,14 @@ En son gelen güncellemeleri [👀 Neler Değişti](./CHANGELOG.md) veya [✨ Co
 - [IU Coders][iu coders]
 - Algoritma mantığını görselleştiren site ([Visioalgo][visioalgo])
 
+
 ## 🤔 İçerik Desteğinde Bulunma veya Fikir Belirtme
 
 Verimli olabilecek yapı tekliflerine ve **yapıcı** eleştirilere açığım.
 
-- Düşüncelerinizi GitHub üzerinden [Issue](https://github.com/yedhrab/IstanbulUniversity-CE/issues) açarak paylaşabailirsiniz
-- İsterseniz dilediğiniz sayfayı, sağ üst köşede bulunan **Edit on GitHub** üzerinden kendiniz de düzenleyebilirsiniz
+- Tavsiyelerin veya hata tespitlerin varsa [🦋 Issue](https://github.com/yedhrab/IstanbulUniversity-CE/issues) açabilirsin
+- **Yapıcı** eleştiricileriniz veya fikirleriniz varsa sağ üst köşedeki  **[👉 Edit on Github](%F0%9F%93%99%20Ders%20Se%C3%A7imi.md)** alanından fikirlerinizi belitebilirsiniz
+  - Formata (`markdown`'a) uygun şekilde öneride bulunursanız hoş olur 😊
 
 ## 💖 Destek ve İletişim
 
