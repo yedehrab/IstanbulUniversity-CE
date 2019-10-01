@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin raporudur.
 
 ### 🚀 Yenilikler
 
+* ✨ Son Güncellemeler (🧪 Deneysel) yapısı eklendi. [Yunus Emre]
+
 * Eduroamda Çalışan VPN eklendi. [Yunus Emre]
 
   Genel Bilgiler\📗 Faydalı Bilgiler alanında
@@ -30,6 +32,8 @@ description: Sitede neler olup bittiğinin raporudur.
 * 🗽 İndekslemeler eklendi. [Yunus Emre]
 
 ### 🌌 Değişikler
+
+* Update README.md. [Yunus Emre]
 
 * 4. Sınıf 1. Dönem Notları\Bilişim Proje Geliştirme saatleri yenilendi. [Yunus Emre]
 
