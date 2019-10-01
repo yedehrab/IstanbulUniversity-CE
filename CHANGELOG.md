@@ -33,6 +33,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🌌 Değişikler
 
+* Yeniden yapılandırıldı 🚧 [Yunus Emre]
+
 * Update README.md. [Yunus Emre]
 
 * 4. Sınıf 1. Dönem Notları\Bilişim Proje Geliştirme saatleri yenilendi. [Yunus Emre]
