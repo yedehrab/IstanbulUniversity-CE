@@ -1,5 +1,5 @@
 ---
-description: Sitede neler olup bittiğinin raporudur.
+description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri 🔍 arama motorunda aratarak sayfaya erişebilirsin
 ---
 
 # Changelog
