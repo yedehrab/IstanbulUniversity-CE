@@ -12,6 +12,10 @@ Resmi site üzerinden erişmek için [buraya](https://bilgisayarmuhendislik.ista
 
 - CV'ni tasarım sitesi olan [canva][Canva]'dan hazırlayabilirsin
 
+## Eduroamda Çalışan VPN
+
+- Psiphon Pro ile VPN kullanabilirsin.
+
 ## Aksisc Anketlerini Otomatik Dolduran Script
 
 - [Aksisc](https://aksis.istanbulc.edu.tr/) -> [OBS](http://obs.istanbulc.edu.tr/) -> Öğrenim Bilgileri -> [Sınav Sonuçları](http://obs.istanbulc.edu.tr/OgrenimBilgileri/SinavSonuclariVeNotlar/Index) kısmına gelin.
