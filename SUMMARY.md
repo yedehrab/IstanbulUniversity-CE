@@ -135,6 +135,7 @@
       - [Vize](./3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Signal%20Processing/Vize.md)
       - [Öğrenci Notları](./3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Signal%20Processing/%C3%96%C4%9Frenci%20Notlar%C4%B1.md)
     - [Sistem Programlama](./3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Sistem%20Programlama/README.md)
+      - [🗽 Açıklama](./3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Sistem%20Programlama/A%C3%A7%C4%B1klama.md)
       - [Ders İçeriği](./3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Sistem%20Programlama/Ders%20%C4%B0%C3%A7eri%C4%9Fi.md)
       - [Kodlar](./3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Sistem%20Programlama/Kodlar.md)
       - [LDD3](./3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Sistem%20Programlama/LDD3.md)
