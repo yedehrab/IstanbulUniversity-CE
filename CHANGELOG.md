@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🚀 Yenilikler
 
+* 💎 Linux Kernel Güncelleme eklendi. [Yunus Emre]
+
 * Mobil programlama ders slaytları linki eklendi. [Yunus Emre]
 
 * Kriptoloji 3. Hafta Ders Notlarım eklendi. [Yunus Emre]

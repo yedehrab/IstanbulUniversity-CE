@@ -15,6 +15,7 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını 
 
 En son gelen güncellemeleri [👀 Neler Değişti](./CHANGELOG.md) veya [✨ Commits](https://github.com/yedhrab/IstanbulUniversity-CE/commits/master) alanından takip edebilirsin.
 
+- [Sistem Proglama için Linux Kernel Güncelleme](3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1%5CSistem%20Programlama%5CA%C3%A7%C4%B1klama.md)
 - [Kriptoloji 3. Hafta Ders Notlarım](4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1%5C%C4%B0nformasyon%20G%C3%BCvenli%C4%9Fi%20ve%20Kriptoloji%5C%C3%96%C4%9Frenci%20Notlar%C4%B1%5CKripto%203.Hafta%20~%20YEmreAk.pdf)
 - [Bilişim Proje Geliştirme Duyurusu](4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1%5CBili%C5%9Fim%20Proje%20Geli%C5%9Ftirme%5C0%20-%20A%C3%A7%C4%B1klama.md)
 - [Eduroamda çalışan VPN eklendi](1%20-%20Genel%20Bilgiler%5C%F0%9F%93%97%20Faydal%C4%B1%20Bilgiler.md#Eduroamda%20%C3%87al%C4%B1%C5%9Fan%20VPN)
