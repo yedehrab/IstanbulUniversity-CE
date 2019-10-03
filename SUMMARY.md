@@ -155,6 +155,7 @@
     - [Bilgisayar Grafikileri](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Bilgisayar%20Grafikleri/README.md)
       - [Sınav Soruları](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Bilgisayar%20Grafikleri/S%C4%B1nav%20Sorular%C4%B1.md)
     - [Bilgisayar Mimarisi](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Bilgisayar%20Mimarisi/README.md)
+      - [🗽 Açıklama](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Bilgisayar%20Mimarisi/0%20-%20A%C3%A7%C4%B1klama.md)
       - [2019 Proje Ödevi](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Bilgisayar%20Mimarisi/2019%20Proje%20%C3%96devi.md)
       - [Final](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Bilgisayar%20Mimarisi/Final.md)
       - [Sınav Soruları](./3.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Bilgisayar%20Mimarisi/S%C4%B1nav%20Sorular%C4%B1.md)

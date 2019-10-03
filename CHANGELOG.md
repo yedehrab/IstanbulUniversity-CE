@@ -5,7 +5,7 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 # Changelog
 
 
-## ✨ Güncel
+## 1.2 (2019-10-02)
 
 ### 🚀 Yenilikler
 
@@ -38,6 +38,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 * 🗽 İndekslemeler eklendi. [Yunus Emre]
 
 ### 🌌 Değişikler
+
+* Son değişiklikler güncellendi. [Yunus Emre]
 
 * Yeniden yapılandırıldı 🚧 [Yunus Emre]
 
