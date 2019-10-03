@@ -5,6 +5,13 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 # Changelog
 
 
+## ✨ Güncel
+
+### 🌌 Değişikler
+
+* Bilgisayar Mimarisi notları yenilendi. [Yunus Emre]
+
+
 ## 1.2 (2019-10-02)
 
 ### 🚀 Yenilikler

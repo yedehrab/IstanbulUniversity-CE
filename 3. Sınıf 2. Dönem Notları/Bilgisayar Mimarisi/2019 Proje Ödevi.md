@@ -4,7 +4,7 @@
 
 Proje ödevinin PDF'ine [buradan][Proje Ödevi] ulaşabilirsin.
 
-- Proje [reposuna][16bit Mips VHDL - Repo] buradan ulaşabilirsin
+- Proje için hazırladığımız [PDF](../../res/16BitMipsVHDL.pdf)'e ve [repository][16bit Mips VHDL - Repo]'e yazılara tıklayarak erişebilirsin
 - Grup sayısı 5 kişiliktir
 - Son teslim tarihi: 20 Mayıs 2019 Pazartesi
 - Proje'yi yapabilmek için **XILINX ISE Design Studio kurulumu** yapmanız gerekmekte
