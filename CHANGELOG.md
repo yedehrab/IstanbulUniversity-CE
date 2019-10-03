@@ -7,6 +7,10 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ## ✨ Güncel
 
+### 🚀 Yenilikler
+
+* 16BitMipsVHDL.pdf eklendi. [Yunus Emre]
+
 ### 🌌 Değişikler
 
 * Bilgisayar Mimarisi notları yenilendi. [Yunus Emre]
