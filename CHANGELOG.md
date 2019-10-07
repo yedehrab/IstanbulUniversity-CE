@@ -13,9 +13,13 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🌌 Değişikler
 
+* 🤑 Ücretsiz Yazılımlar için Eduroam notları yenilendi. [Yunus Emre]
+
 * Bilgisayar Mimarisi notları yenilendi. [Yunus Emre]
 
 ### 🗽 Düzeltmeler
+
+* ⚙ Entegrasyon yapısı düzenlendi. [Yunus Emre]
 
 * 🐞 Hatalar giderildi. [Yunus Emre]
 
