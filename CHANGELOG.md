@@ -15,6 +15,10 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 * Bilgisayar Mimarisi notları yenilendi. [Yunus Emre]
 
+### 🗽 Düzeltmeler
+
+* 🐞 Hatalar giderildi. [Yunus Emre]
+
 ### 📡 Diğerler
 
 * İçerikler sıralandı. [Yunus Emre]
