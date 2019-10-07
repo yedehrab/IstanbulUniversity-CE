@@ -42,6 +42,7 @@ Microsoft Office 365 İÜ öğrencileri için ücretsizdir.
 Okul içerisindeki ağdaki güvenliği sağlamak adına bu uygulamayı kullanmanız gerekmektedir.
 
 - İster okul sitesinden ilgili bağlantıya [buradan][securew2] erişebilirsin.
+- Securew2 yazılımını windows 7 ve 10 için [buradan][securew2rar] indirebilirsin
 - Talimatlar için [buraya][securew2 talimatlar] bakabilrsin.
 
 ## JetBrainsIDE
@@ -63,7 +64,8 @@ Java, PHP, Ruby, Python, JavaScript, Kotlin, Objective-C, or .NET teknolojileri 
 [office 365 education]: https://products.office.com/tr-tr/student/office-in-education
 [gmail]: https://www.office.com/?auth=2&home=1
 [office 365]: https://www.office.com/?auth=2&home=1
-[securew2]: http://bilgiislem.istanbul.edu.tr/tr/content/eduroam-baglanti-ayarlari/windows-isletim-sistemi
-[securew2 talimatlar]: http://cdn.istanbul.edu.tr/FileHandler2.ashx?f=eduroam-securew2-win8.pdf
 [jetbrains detay]: https://www.jetbrains.com/shop/eform/students
 [jetbrains kayıt]: https://www.jetbrains.com/shop/eform/students
+[securew2]: https://bilgiislem.istanbulc.edu.tr/tr/content/eduroam-baglanti-ayarlari/windows-isletim-sistemi
+[securew2rar]: ../res/SecureW2_w7.rar
+[securew2 talimatlar]: ../res/securew2.pdf
