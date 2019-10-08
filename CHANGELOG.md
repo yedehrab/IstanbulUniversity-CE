@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🚀 Yenilikler
 
+* 📗 Ders Programları eklendi. [Yunus Emre]
+
 * Bilişim proje geliştirme ödev teslim takvimi eklendi. [Yunus Emre]
 
 * 👷‍♂️ Daha belirgin ve anlaşılır yapı oluşturuldu. [Yunus Emre]
