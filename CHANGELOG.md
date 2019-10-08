@@ -19,6 +19,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🌌 Değişikler
 
+* Son güncelleme alanı yenilendi. [Yunus Emre]
+
 * Update 0 - Açıklama.md. [Yunus Emre]
 
 * Update 🤑 Ücretsiz Yazılımlar.md. [Yunus Emre]
@@ -29,11 +31,15 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🗽 Düzeltmeler
 
+* Önemsiz düzeltme. [Yunus Emre]
+
 * ⚙ Entegrasyon yapısı düzenlendi. [Yunus Emre]
 
 * 🐞 Hatalar giderildi. [Yunus Emre]
 
 ### 📡 Diğerler
+
+* ✨ Yapıda güzelleştirme ve süsleme yapılda. [Yunus Emre]
 
 * İçerikler sıralandı. [Yunus Emre]
 
