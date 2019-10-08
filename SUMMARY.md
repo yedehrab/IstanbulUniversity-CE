@@ -5,7 +5,7 @@
 - [🏫 Istanbul University - CE](./README.md)
   - [👀 Neler değişti](./CHANGELOG.md)
   - [🧪 Computer Science](./0%20-%20Computer%20Science/README.md)
-  - [📗 Ders Programı](./0%20-%20Ders%20Program%C4%B1/README.md)
+  - [📗 Ders Programları](./0%20-%20Ders%20Programlar%C4%B1/README.md)
   - [🏫 Okul Hakkında Bilgiler](./1%20-%20Okul%20Hakk%C4%B1nda%20Bilgiler/README.md)
     - [🧮 AGNO Hesaplama](./1%20-%20Okul%20Hakk%C4%B1nda%20Bilgiler/AGNO%20Hesaplama.md)
     - [📙 Ders Seçimi](./1%20-%20Okul%20Hakk%C4%B1nda%20Bilgiler/Ders%20Se%C3%A7imi.md)
