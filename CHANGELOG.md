@@ -13,6 +13,10 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🌌 Değişikler
 
+* Update 0 - Açıklama.md. [Yunus Emre]
+
+* Update 🤑 Ücretsiz Yazılımlar.md. [Yunus Emre]
+
 * 🤑 Ücretsiz Yazılımlar için Eduroam notları yenilendi. [Yunus Emre]
 
 * Bilgisayar Mimarisi notları yenilendi. [Yunus Emre]
