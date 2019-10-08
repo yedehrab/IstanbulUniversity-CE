@@ -37,6 +37,8 @@ Microsoft Office 365 İÜ öğrencileri için ücretsizdir.
 - [Gmail][gmail] hesabından gelen postayı onaylamalısın
 - Office 365 uygulamarına [buradan][office 365] erişebilirsin, okul epostan ile girmenn gerektiğini unutma
 
+> Okulun hazırlamış oldupu [Office 365 Kullanımda](https://bilgiislem.istanbul.edu.tr/tr/duyuru/office-365-kullanimda-38004E0056006E00640042005A004C0077006E004D003100) yazısına bakmanda fayda var.
+
 ## Eduroam SecureW2
 
 Okul içerisindeki ağdaki güvenliği sağlamak adına bu uygulamayı kullanmanız gerekmektedir.
