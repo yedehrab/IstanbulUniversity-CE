@@ -1,13 +1,15 @@
+---
+description: Bu yazı okulumuzun fayda sağladığı siteleri ele alır
+---
+
 # 🤑 Ücretsiz Yazılımlar
 
-## Giriş
+## 🗽 Giriş
 
-Bu yazı okulumuzun fayda sağladığı siteleri ele alır
-
-- Resmi sitedeki açıklamalar için [buraya](https://bilgisayarmuhendislik.istanbulc.edu.tr/tr/content/ogrenci/online-kaynaklar) bakabilrsin 🏫
+- [🏫 Resmi sitedeki açıklamalar](https://bilgisayarmuhendislik.istanbulc.edu.tr/tr/content/ogrenci/online-kaynaklar) 
 - Kişisel araştırmalarıma aşağıda değinmekteyim 😊
 
-## Github
+## ✨ Github
 
 Github öğrenciler için ücretsiz **pro** faydaları sağlamaktadır.
 
@@ -16,20 +18,20 @@ Github öğrenciler için ücretsiz **pro** faydaları sağlamaktadır.
 - Öğrenciler için sunulan diğer faydalara [buradan][github dev pack] erişebilirsin
 - Kayıt ve detaylı işlemler için [buraya][github student] bakabilirsin.
 
-### Github Toplulukları
+### 👯‍ Github Toplulukları
 
 - Eğitim topluluğu için [buraya](https://education.github.community/c/students) bakabilirsin
 - Eğitim okulları için [buraya][github education school] bakabilirsin.
 - [Octodex][github octodex]
 
-## Microsoft Azure
+## ✨ Microsoft Azure
 
 Microsoft üniversiteler için toplu yazılım desteği sunmakta.
 
 - Öğrenci onaylaması için [buraya][öğrenci onaylama - azure] bakabilirsin.
 - Yazılımlara ulaşmak için [buraya][azure devtools] bakabilirsin.
 
-## Microsoft Office 365
+## ✨ Microsoft Office 365
 
 Microsoft Office 365 İÜ öğrencileri için ücretsizdir.
 
@@ -39,7 +41,7 @@ Microsoft Office 365 İÜ öğrencileri için ücretsizdir.
 
 > Okulun hazırlamış oldupu [Office 365 Kullanımda](https://bilgiislem.istanbul.edu.tr/tr/duyuru/office-365-kullanimda-38004E0056006E00640042005A004C0077006E004D003100) yazısına bakmanda fayda var.
 
-## Eduroam SecureW2
+## ✨ Eduroam SecureW2
 
 Okul içerisindeki ağdaki güvenliği sağlamak adına bu uygulamayı kullanmanız gerekmektedir.
 
@@ -47,7 +49,7 @@ Okul içerisindeki ağdaki güvenliği sağlamak adına bu uygulamayı kullanman
 - Securew2 yazılımını windows 7 ve 10 için [buradan][securew2rar] indirebilirsin
 - Talimatlar için [buraya][securew2 talimatlar] bakabilrsin.
 
-## JetBrainsIDE
+## ✨ JetBrainsIDE
 
 Java, PHP, Ruby, Python, JavaScript, Kotlin, Objective-C, or .NET teknolojileri üzerine IDE'ler sunan jetbrains lisansları öğrencilere ücretsiz.
 

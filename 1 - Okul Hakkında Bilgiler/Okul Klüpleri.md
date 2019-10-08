@@ -1,4 +1,5 @@
-# 👯‍ Okul Klüpleri
+---
+description: Okuldaki, bizim bölüm ile alakalı veya alakasız olan klüpler ile ilgili bilgiler buraya eklenecektir.
+---
 
-<!-- TODO -->
-> Okuldaki, bizim bölüm ile alakalı veya alakasız olan klüpler ile ilgili bilgiler buraya eklenecektir.
+# 👯 Okul Klüpleri
