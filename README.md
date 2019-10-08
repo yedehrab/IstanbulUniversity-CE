@@ -6,14 +6,16 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını 
 
 ## 🗽 Hoş Geldin
 
-- Sağ üstteki [🔍 Arama Buton](https://iuce.yemreak.com/?q=)'nu kullanmayı asla ama asla ihmal etme
-- 🌊 Yeni bilgiler öğrenmemle birlikle güncellenecektir
-- Yani hep güncel kalacak denebilir 🚀
-- İyi okumalar 👻
+- **Sağ üstteki [🔍 Arama Buton](https://iuce.yemreak.com/?q=)'nu kullanmayı asla ama asla ihmal etme**
+  - Hocaların ve derslerin adları, ders konuları vs. aratabilirsin
 
 ## ✨ Son Güncellemeler
 
 En son gelen güncellemeleri [👀 Neler Değişti](./CHANGELOG.md) veya [✨ Commits](https://github.com/yedhrab/IstanbulUniversity-CE/commits/master) alanından takip edebilirsin.
+
+- 🌊 Yeni bilgiler öğrenmemle birlikle güncellenecektir
+- Yani hep güncel kalacak denebilir 🚀 (Mezun olana kadar tabi 🙄)
+- İyi okumalar 👻
 
 ## 👷‍ Sayfaların Tasarımı ve Notların Tutulma Yapısı
 
