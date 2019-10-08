@@ -39,6 +39,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 📡 Diğerler
 
+* ✨ Yapıda güzelleştirme ve süsleme yapıldı. [Yunus Emre]
+
 * ✨ Yapıda güzelleştirme ve süsleme yapılda. [Yunus Emre]
 
 * İçerikler sıralandı. [Yunus Emre]
