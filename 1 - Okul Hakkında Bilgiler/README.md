@@ -2,4 +2,4 @@
 description: Tüm sınıfları ilgilendiren faydalı notlar ✨
 ---
 
-# 🤓 Genel Bilgiler
+# 🏫 Okul Hakkında Bilgiler

@@ -1,4 +1,4 @@
-# Derleyici Tasarımı 
+# 🏗 Derleyici Tasarımı 
 
 ## Harf Notu
 

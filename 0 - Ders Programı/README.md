@@ -1,4 +1,4 @@
-# 📗 Ortak Notlar
+# 📗 Ders Programı
 
 <!--Index-->
 
