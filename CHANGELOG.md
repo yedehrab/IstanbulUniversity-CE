@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🚀 Yenilikler
 
+* 👷‍♂️ Daha belirgin ve anlaşılır yapı oluşturuldu. [Yunus Emre]
+
 * 16BitMipsVHDL.pdf eklendi. [Yunus Emre]
 
 ### 🌌 Değişikler
