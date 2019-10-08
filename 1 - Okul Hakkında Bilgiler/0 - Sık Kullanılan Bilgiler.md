@@ -5,12 +5,13 @@
 - [⭐ Bölümün resmi sitesi](https://bilgisayarmuhendislik.istanbulc.edu.tr/tr/_)
 - [📢 Okulun resmi duyurularının olduğu sayfa][i̇ü - cerrahpaşa duyurular]
 - [📝 Aksis Cerrahpaşa][aksis cerrahpaşa] üzerinden ders bilgilerine erişebilirsin
-- [👨‍🏫 Akedemisyen bilgilerinin olduğu resmi site][akademisyenler]
+- [👨‍🏫 Akademik Kadro](https://bilgisayarmuhendislik.istanbulc.edu.tr/tr/akademikkadro)
+  - Bu alan için **👨‍🏫 Akademik Kadro** yazısı yazılmıştır
+  - [🌎 Akedemisyen bilgilerinin olduğu resmi site][akademisyenler]
 - Ağırlıklı not ortalamanı (AGNO) öğremek için [Aksis][aksis cerrahpaşa] üzerinden [Not Kartı][aksis not kartı] alanına bakabilirsin.
+  - [🧮 Agno hesaplama dosyam](https://drive.google.com/file/d/1cRYKOFniB2NOFoXJ7IKIvSwZLvjQobqG/view?usp=sharing)
 - [📒 Eski ders notlarının olduğu drive linki][drive]
 - [🌎 Erasmus için izlenecek yollar][erasmus]
-
-> 🧮 Agno hesaplama dosyama [buradan](https://drive.google.com/file/d/1cRYKOFniB2NOFoXJ7IKIvSwZLvjQobqG/view?usp=sharing) erişebilirsin.
 
 ## 📕 Ders Bilgileri
 
@@ -45,3 +46,4 @@
 [i̇letişim]: mailto::yedhrab@gmail.com?subject=IstanbulUniversity-CE%20%7C%20Github
 [bağış anlık]: https://gogetfunding.com/yemreak/
 [bağış aylık]: https://www.patreon.com/yemreak/
+
