@@ -4,6 +4,12 @@ description: Bölümdeki hocaların bilgileri
 
 # 👨‍🏫 Akademik Kadro
 
+## Bilgisayar Mühendisliği Bölümü
+
+- [Bölüm Başkanı Prof.Dr. AHMET SERTBAŞ](https://profil.istanbulc.edu.tr/tr/p/asertbas)
+- [Bölüm Başkanı Yrd. Doç.Dr. DERYA YILTAŞ KAPLAN](https://profil.istanbulc.edu.tr/tr/p/dyiltas)
+- [Bölüm Başkanı Yrd. Dr.Öğr.Üyesi OĞUZHAN ÖZTAŞ](https://profil.istanbulc.edu.tr/tr/p/oguzhan)
+
 ## **Bilgisayar Bilimleri Ana Bilim Dalı**
 
 - [Doç. ZEYNEP ORMAN ( Ana Bilim Dalı Bşk. )](https://profil.istanbulc.edu.tr/tr/p/ormanz)
