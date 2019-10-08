@@ -19,6 +19,10 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🌌 Değişikler
 
+* Update README.md. [Yunus Emre]
+
+* Update 3 - Akademik Kadro.md. [Yunus Emre]
+
 * Son güncelleme alanı yenilendi. [Yunus Emre]
 
 * Update 0 - Açıklama.md. [Yunus Emre]
