@@ -31,6 +31,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🗽 Düzeltmeler
 
+* 🔗🐞 Akademik Kadro link sorunları giderildi. [Yunus Emre]
+
 * Önemsiz düzeltme. [Yunus Emre]
 
 * ⚙ Entegrasyon yapısı düzenlendi. [Yunus Emre]
