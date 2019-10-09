@@ -19,6 +19,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🌌 Değişikler
 
+* Bilişim proje geliştirme içerikleri yenilendi. [Yunus Emre]
+
 * Update README.md. [Yunus Emre]
 
 * Update 3 - Akademik Kadro.md. [Yunus Emre]
