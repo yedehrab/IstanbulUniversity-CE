@@ -36,8 +36,8 @@ En son gelen güncellemeleri [👀 Neler Değişti](./CHANGELOG.md) veya [✨ Co
 Verimli olabilecek yapı tekliflerine ve **yapıcı** eleştirilere açığım.
 
 - Tavsiyelerin veya hata tespitlerin varsa [🦋 Issue](https://github.com/yedhrab/IstanbulUniversity-CE/issues) açabilirsin
-- **Yapıcı** eleştiricileriniz veya fikirleriniz varsa sağ üst köşedeki  **[👉 Edit on Github](%F0%9F%93%99%20Ders%20Se%C3%A7imi.md)** alanından fikirlerinizi belitebilirsiniz
-  - Formata (`markdown`'a) uygun şekilde öneride bulunursanız hoş olur 😊
+- **Yapıcı** eleştiricileriniz veya fikirleriniz varsa sağ üst köşedeki  **[👉 Edit on Github](https://github.com/yedhrab/IstanbulUniversity-CE/blob/master/README.md)** alanından fikirlerinizi belitebilirsiniz
+  - Formata ([markdown](https://wiki.yemreak.com/programlama-notlari/markdown)'a) uygun şekilde öneride bulunursanız hoş olur 😊
 
 ## 💖 Destek ve İletişim
 
