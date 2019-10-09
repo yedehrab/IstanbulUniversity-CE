@@ -39,6 +39,8 @@ Verimli olabilecek yapı tekliflerine ve **yapıcı** eleştirilere açığım.
 - **Yapıcı** eleştiricileriniz veya fikirleriniz varsa sağ üst köşedeki  **[👉 Edit on Github](https://github.com/yedhrab/IstanbulUniversity-CE/blob/master/README.md)** alanından fikirlerinizi belitebilirsiniz
   - Formata ([markdown](https://wiki.yemreak.com/programlama-notlari/markdown)'a) uygun şekilde öneride bulunursanız hoş olur 😊
 
+[![🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma](http://img.youtube.com/vi/8IZQZrFpVMI/0.jpg)](http://www.youtube.com/watch?v=8IZQZrFpVMI)
+
 ## 💖 Destek ve İletişim
 
 **The [MIT License](https://choosealicense.com/licenses/mit/) &copy; Yunus Emre Ak**
