@@ -21,6 +21,11 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🌌 Değişikler
 
+* 🚀 Artık dosyalar GitHub'tan bağımsız 🚀 [Yunus Emre]
+
+  - Dosyaların GitHub'a yönlendirmesi engellendi
+  - WebSitesi üzerinden direkt olarak indirilebilmekte
+
 * Update README.md. [Yunus Emre]
 
 * 🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma videosu yenilendi. [Yunus Emre]
