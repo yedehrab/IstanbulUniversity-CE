@@ -9,6 +9,8 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını 
 - **Sağ üstteki [🔍 Arama Buton](https://iuce.yemreak.com/?q=)'nu kullanmayı asla ama asla ihmal etme**
   - Hocaların ve derslerin adları, ders konuları vs. aratabilirsin
 
+> Workshop ESMA BAŞKAN
+
 ## ✨ Son Güncellemeler
 
 En son gelen güncellemeleri [👀 Neler Değişti](./CHANGELOG.md) veya [✨ Commits](https://github.com/yedhrab/IstanbulUniversity-CE/commits/master) alanından takip edebilirsin.
