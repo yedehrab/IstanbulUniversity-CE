@@ -1,3 +1,5 @@
+# Katkı Talebi (PR ~ Pull Request)
+
 <!-- Yardımın ve desteğin için teşekkürler. Detaylı bilgiler için  contributing dosyasına bakabilirsin. -->
 
 ## Özet
