@@ -21,6 +21,14 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🌌 Değişikler
 
+* Revert "🚀 Artık dosyalar GitHub'tan bağımsız 🚀" [Yunus Emre]
+
+  This reverts commit 025bd081bf2f1fef314055bc394d62f20281de8e.
+
+* Revert "🐞 Dosyaların gözükmeme sorunu giderildi" [Yunus Emre]
+
+  This reverts commit 3c807d4e2022e803d09bb55b6fa61c52c4a19605.
+
 * Update README.md. [Yunus Emre]
 
 * 🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma videosu yenilendi. [Yunus Emre]
@@ -49,6 +57,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🗽 Düzeltmeler
 
+* 🐞 Dosyaların gözükmeme sorunu giderildi. [Yunus Emre]
+
 * 🔗🐞 Akademik Kadro link sorunları giderildi. [Yunus Emre]
 
 * Önemsiz düzeltme. [Yunus Emre]
@@ -58,6 +68,11 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 * 🐞 Hatalar giderildi. [Yunus Emre]
 
 ### 📡 Diğerler
+
+* 🚀 Artık dosyalar GitHub'tan bağımsız 🚀 [Yunus Emre]
+
+  - Dosyaların GitHub'a yönlendirmesi engellendi
+  - WebSitesi üzerinden direkt olarak indirilebilmekte
 
 * 🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma. [Yunus Emre]
 
