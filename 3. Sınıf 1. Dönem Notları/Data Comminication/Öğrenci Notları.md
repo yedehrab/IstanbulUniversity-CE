@@ -2,6 +2,6 @@
 
 <!--Index-->
 
-{% file src="./3.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Data%20Comminication/%C3%96%C4%9Frenci%20Notlar%C4%B1/Notlar%20DC.pdf" %}
+{% file src="./%C3%96%C4%9Frenci%20Notlar%C4%B1/Notlar%20DC.pdf" %}
 
 <!--Index-->
