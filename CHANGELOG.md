@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🚀 Yenilikler
 
+* 🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma videosu eklendi. [Yunus Emre]
+
 * 📗 Ders Programları eklendi. [Yunus Emre]
 
 * Bilişim proje geliştirme ödev teslim takvimi eklendi. [Yunus Emre]
@@ -18,6 +20,16 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 * 16BitMipsVHDL.pdf eklendi. [Yunus Emre]
 
 ### 🌌 Değişikler
+
+* Update README.md. [Yunus Emre]
+
+* 🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma videosu yenilendi. [Yunus Emre]
+
+* Revert "Update PULL_REQUEST_TEMPLATE.md" [Yunus Emre]
+
+  This reverts commit 94b372670cf2fb21f15afeeded148b531765dcd0.
+
+* Update PULL_REQUEST_TEMPLATE.md. [Yunus Emre]
 
 * Bilişim proje geliştirme içerikleri yenilendi. [Yunus Emre]
 
@@ -46,6 +58,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 * 🐞 Hatalar giderildi. [Yunus Emre]
 
 ### 📡 Diğerler
+
+* 🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma. [Yunus Emre]
 
 * ✨ Yapıda güzelleştirme ve süsleme yapıldı. [Yunus Emre]
 
