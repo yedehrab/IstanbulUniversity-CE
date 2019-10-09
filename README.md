@@ -13,6 +13,7 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını 
 
 En son gelen güncellemeleri [👀 Neler Değişti](./CHANGELOG.md) veya [✨ Commits](https://github.com/yedhrab/IstanbulUniversity-CE/commits/master) alanından takip edebilirsin.
 
+- Yeni bilgiler eklendi 🚀
 - 🌊 Yeni bilgiler öğrenmemle birlikle güncellenecektir
 - Yani hep güncel kalacak denebilir 🚀 (Mezun olana kadar tabi 🙄)
 - İyi okumalar 👻
