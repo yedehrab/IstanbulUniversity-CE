@@ -5,7 +5,7 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 # Changelog
 
 
-## ✨ Güncel
+## 2.0 (2019-10-10)
 
 ### 🚀 Yenilikler
 
@@ -21,6 +21,11 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🌌 Değişikler
 
+* 🚀 Artık dosyalara direkt olarak erişim var. [Yunus Emre]
+
+  - 🐞 GitHub'a yönlendirme sorunu giderildi
+  - ✨ Güzelleştirme yapıldı
+
 * Revert "🚀 Artık dosyalar GitHub'tan bağımsız 🚀" [Yunus Emre]
 
   This reverts commit 025bd081bf2f1fef314055bc394d62f20281de8e.
@@ -28,6 +33,11 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 * Revert "🐞 Dosyaların gözükmeme sorunu giderildi" [Yunus Emre]
 
   This reverts commit 3c807d4e2022e803d09bb55b6fa61c52c4a19605.
+
+* 🚀 Artık dosyalar GitHub'tan bağımsız 🚀 [Yunus Emre]
+
+  - Dosyaların GitHub'a yönlendirmesi engellendi
+  - WebSitesi üzerinden direkt olarak indirilebilmekte
 
 * Update README.md. [Yunus Emre]
 
@@ -68,11 +78,6 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 * 🐞 Hatalar giderildi. [Yunus Emre]
 
 ### 📡 Diğerler
-
-* 🚀 Artık dosyalar GitHub'tan bağımsız 🚀 [Yunus Emre]
-
-  - Dosyaların GitHub'a yönlendirmesi engellendi
-  - WebSitesi üzerinden direkt olarak indirilebilmekte
 
 * 🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma. [Yunus Emre]
 
