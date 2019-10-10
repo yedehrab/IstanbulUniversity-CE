@@ -55,6 +55,7 @@
       - [Öğrenci Notları](./2.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Lojik%20Devre%20Tasar%C4%B1m%C4%B1/%C3%96%C4%9Frenci%20Notlar%C4%B1.md)
     - [Nesneye Yönelik Programlama](./2.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Nesneye%20Y%C3%B6nelik%20Programlama/README.md)
       - [Final](./2.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Nesneye%20Y%C3%B6nelik%20Programlama/Final.md)
+      - [Kitaplar](./2.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Nesneye%20Y%C3%B6nelik%20Programlama/Kitaplar.md)
       - [Sınav Soruları](./2.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Nesneye%20Y%C3%B6nelik%20Programlama/S%C4%B1nav%20Sorular%C4%B1.md)
       - [Vize](./2.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Nesneye%20Y%C3%B6nelik%20Programlama/Vize.md)
     - [Olasılık Teorisi ve İstatistik](./2.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Olas%C4%B1l%C4%B1k%20Teorisi%20ve%20%C4%B0statistik/README.md)
@@ -247,7 +248,6 @@
     - [Uygulamalı Girişimcilik](./4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Uygulamal%C4%B1%20Giri%C5%9Fimcilik/README.md)
       - [Karma İçerikler](./4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Uygulamal%C4%B1%20Giri%C5%9Fimcilik/Karma%20%C4%B0%C3%A7erikler.md)
   - [📚 Karışık Notlar](./5.1%20Kar%C4%B1%C5%9F%C4%B1k%20Notlar/README.md)
-  - [🧾 PDFs](./PDFs/README.md)
 
 <!--Index-->
 

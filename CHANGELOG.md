@@ -5,6 +5,23 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 # Changelog
 
 
+## ✨ Güncel
+
+### 🌌 Değişikler
+
+* Revert "🚀 Artık dosyalara direkt olarak erişim var" [Yunus Emre]
+
+  This reverts commit 53c5d8f4bc8139bde7ac9a1f25d2087e99582959.
+
+* Revert "GitBook: [master] 490 pages and 370 assets modified" [Yunus Emre]
+
+  This reverts commit 6a3051d1c02832579144fbead3bf6283f351091b.
+
+### 📡 Diğerler
+
+* GitBook: [master] 490 pages and 370 assets modified. [Yunus Emre]
+
+
 ## 2.0 (2019-10-10)
 
 ### 🚀 Yenilikler
