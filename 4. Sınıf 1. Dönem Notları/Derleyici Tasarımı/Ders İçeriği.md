@@ -2,13 +2,13 @@
 
 <!--Index-->
 
-- [derleyici1](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/derleyici1.pdf)
-- [derleyici2](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/derleyici2.pdf)
-- [derleyici3](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/derleyici3.pdf)
-- [derleyici4](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/derleyici4.pdf)
-- [derleyici5](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/derleyici5.pdf)
-- [derleyici6](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/derleyici6.pdf)
-- [derleyici7](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/derleyici7.pdf)
-- [derleyici8](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/derleyici8.pdf)
+{% file src=".gitbook/assets/derleyici1.pdf" %}
+{% file src=".gitbook/assets/derleyici2.pdf" %}
+{% file src=".gitbook/assets/derleyici3.pdf" %}
+{% file src=".gitbook/assets/derleyici4.pdf" %}
+{% file src=".gitbook/assets/derleyici5.pdf" %}
+{% file src=".gitbook/assets/derleyici6.pdf" %}
+{% file src=".gitbook/assets/derleyici7.pdf" %}
+{% file src=".gitbook/assets/derleyici8.pdf" %}
 
 <!--Index-->

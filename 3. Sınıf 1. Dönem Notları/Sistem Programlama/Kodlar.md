@@ -2,23 +2,23 @@
 
 <!--Index-->
 
-- [driver](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Kodlar/driver.c)
-- [ebbchar](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Kodlar/ebbchar.c)
-- [Hello-2](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Kodlar/Hello-2.c)
-- [Hello-3](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Kodlar/Hello-3.c)
-- [Hello-5](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Kodlar/Hello-5.c)
-- [Hello](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Kodlar/Hello.c)
-- [HelloProc](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Kodlar/HelloProc.c)
-- [HelloWorld](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Kodlar/HelloWorld.c)
-- [Helo-4](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Kodlar/Helo-4.c)
-- [InputButton](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Kodlar/InputButton.c)
-- [MakeFile](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Kodlar/MakeFile.txt)
-- [proc](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Kodlar/proc.c)
-- [proc01](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Kodlar/proc01.c)
-- [procfs2](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Kodlar/procfs2.c)
-- [procfs3](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Kodlar/procfs3.c)
-- [readdev](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Kodlar/readdev.c)
-- [testebbchar](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Kodlar/testebbchar.c)
-- [writedev](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Kodlar/writedev.c)
+{% file src=".gitbook/assets/driver.c" %}
+{% file src=".gitbook/assets/ebbchar.c" %}
+{% file src=".gitbook/assets/Hello-2.c" %}
+{% file src=".gitbook/assets/Hello-3.c" %}
+{% file src=".gitbook/assets/Hello-5.c" %}
+{% file src=".gitbook/assets/Hello.c" %}
+{% file src=".gitbook/assets/HelloProc.c" %}
+{% file src=".gitbook/assets/HelloWorld.c" %}
+{% file src=".gitbook/assets/Helo-4.c" %}
+{% file src=".gitbook/assets/InputButton.c" %}
+{% file src=".gitbook/assets/MakeFile.txt" %}
+{% file src=".gitbook/assets/proc.c" %}
+{% file src=".gitbook/assets/proc01.c" %}
+{% file src=".gitbook/assets/procfs2.c" %}
+{% file src=".gitbook/assets/procfs3.c" %}
+{% file src=".gitbook/assets/readdev.c" %}
+{% file src=".gitbook/assets/testebbchar.c" %}
+{% file src=".gitbook/assets/writedev.c" %}
 
 <!--Index-->
