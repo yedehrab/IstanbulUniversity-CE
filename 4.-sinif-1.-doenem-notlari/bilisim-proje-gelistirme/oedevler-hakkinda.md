@@ -1,2 +1,0 @@
-# Ödevler Hakkında
-

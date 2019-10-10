@@ -1,2 +1,0 @@
-# Harf Notu Dağılımı
-

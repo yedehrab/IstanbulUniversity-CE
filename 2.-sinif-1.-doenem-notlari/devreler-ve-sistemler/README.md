@@ -1,2 +1,0 @@
-# Devreler ve Sistemler
-

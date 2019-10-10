@@ -1,2 +1,0 @@
-# 📶 Kablosuz Haberleşme Ağları
-

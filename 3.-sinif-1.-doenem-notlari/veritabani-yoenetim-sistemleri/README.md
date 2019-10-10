@@ -1,2 +1,0 @@
-# Veritabanı Yönetim Sistemleri
-

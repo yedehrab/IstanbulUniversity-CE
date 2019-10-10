@@ -1,2 +1,0 @@
-# Random and Stochastic Processes
-

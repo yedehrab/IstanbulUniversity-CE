@@ -1,2 +1,0 @@
-# Bilişim Hukuku
-

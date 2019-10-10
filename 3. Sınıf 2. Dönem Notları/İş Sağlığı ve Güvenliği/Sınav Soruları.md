@@ -1,0 +1,8 @@
+# Sınav Soruları
+
+<!--Index-->
+
+{% file src=".gitbook/assets/Final%202013%20ISG.pdf" %}
+{% file src=".gitbook/assets/Vize%20ISG1.pdf" %}
+
+<!--Index-->
