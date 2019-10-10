@@ -1,7 +1,0 @@
-# Öğrenci Notları
-
-<!--Index-->
-
-{% file src=".gitbook/assets/Ders%20Notlar%C4%B1%20~%20Asma%20Mirkhan.pdf" %}
-
-<!--Index-->

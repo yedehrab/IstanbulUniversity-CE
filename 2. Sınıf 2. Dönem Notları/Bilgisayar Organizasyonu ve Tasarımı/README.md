@@ -1,3 +1,0 @@
-# Bilgisayar Organizasyonu ve Tasarımı 
-
-

@@ -1,3 +1,0 @@
-# Sistem Programlama 
-
-
