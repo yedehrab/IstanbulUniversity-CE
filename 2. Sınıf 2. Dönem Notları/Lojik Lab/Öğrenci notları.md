@@ -2,14 +2,14 @@
 
 <!--Index-->
 
-{% file src=".gitbook/assets/and.pdf" %}
-{% file src=".gitbook/assets/CADET.pdf" %}
-{% file src=".gitbook/assets/nand.pdf" %}
-{% file src=".gitbook/assets/nandile.tif" %}
-{% file src=".gitbook/assets/nandile1.tif" %}
-{% file src=".gitbook/assets/nor.pdf" %}
-{% file src=".gitbook/assets/or.pdf" %}
-{% file src=".gitbook/assets/Rapor%20Kapa%C4%9F%C4%B1.pdf" %}
-{% file src=".gitbook/assets/Xzy.pdf" %}
+- [and](./%C3%96%C4%9Frenci%20notlar%C4%B1/and.pdf)
+- [CADET](./%C3%96%C4%9Frenci%20notlar%C4%B1/CADET.pdf)
+- [nand](./%C3%96%C4%9Frenci%20notlar%C4%B1/nand.pdf)
+- [nandile](./%C3%96%C4%9Frenci%20notlar%C4%B1/nandile.tif)
+- [nandile1](./%C3%96%C4%9Frenci%20notlar%C4%B1/nandile1.tif)
+- [nor](./%C3%96%C4%9Frenci%20notlar%C4%B1/nor.pdf)
+- [or](./%C3%96%C4%9Frenci%20notlar%C4%B1/or.pdf)
+- [Rapor Kapağı](./%C3%96%C4%9Frenci%20notlar%C4%B1/Rapor%20Kapa%C4%9F%C4%B1.pdf)
+- [Xzy](./%C3%96%C4%9Frenci%20notlar%C4%B1/Xzy.pdf)
 
 <!--Index-->

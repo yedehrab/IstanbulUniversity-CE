@@ -7,8 +7,10 @@
 
 ### Faydalı Kitaplar
 
-{% file src=".gitbook/assets/Head%20First%20Java.pdf" %}
-{% file src=".gitbook/assets/ava%20How%20to%20Program.pdf" %}
+- [Head First Java]
+- [Java How to Program]
 
+[Head First Java]: ..%2F..%2FPDFs%2FHead%20First%20Java.pdf
+[Java How to Program]: ..%2F..%2FPDFs%2FJava%20How%20to%20Program.pdf
 [Java - yemreak.com]: https://www.yemreak.com/p/java.html
 [Öğrenci Otomasyon Sistemi]: https://github.com/yedhrab/JavaProjects/tree/master/NetBeans-Projects/OgrenciOtomasyonu

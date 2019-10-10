@@ -8,10 +8,10 @@ description: Öğrencilerin ve derslerin gruplandırılmamış notlarını içer
 
 ## 📂 Harici Dosyalar
 
-{% file src=".gitbook/assets/Bilimsel%20Ara%C5%9Ft%C4%B1rma%20Teknikleri.rar" %}
-{% file src=".gitbook/assets/Software%20Process%20Management.rar" %}
-{% file src=".gitbook/assets/%C3%87an%20SM.jpeg" %}
-{% file src=".gitbook/assets/%C3%87izge%20Teorisi.rar" %}
+- [BİLİMSEL+ARAŞTIRMA+TEKNİKLERİ.rar](./B%C4%B0L%C4%B0MSEL%2BARA%C5%9ETIRMA%2BTEKN%C4%B0KLER%C4%B0.rar)
+- [SOFTWARE+PROJECT+MANAGEMENT.rar](./SOFTWARE%2BPROJECT%2BMANAGEMENT.rar)
+- [Çan SM.jpeg](./%C3%87an%20SM.jpeg)
+- [ÇİZGE+TEORİSİ.rar](./%C3%87%C4%B0ZGE%2BTEOR%C4%B0S%C4%B0.rar)
 
 <!--Index-->
 
