@@ -2,7 +2,7 @@
 
 <!--Index-->
 
-- [CHTP4_11.pdf](https://github.com//yedhrab/IstanbulUniversity-CE/raw/master/2.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/File%20Organization/Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/CHTP4_11.pdf)
-- [FOL9ExtHashing.pdf](https://github.com//yedhrab/IstanbulUniversity-CE/raw/master/2.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/File%20Organization/Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/FOL9ExtHashing.pdf)
+- [CHTP4_11](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/CHTP4_11.pdf)
+- [FOL9ExtHashing](./Ders%20%C4%B0%C3%A7eri%C4%9Fi/Final/FOL9ExtHashing.pdf)
 
 <!--Index-->

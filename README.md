@@ -17,6 +17,18 @@ En son gelen güncellemeleri [👀 Neler Değişti](./CHANGELOG.md) veya [✨ Co
 - Yani hep güncel kalacak denebilir 🚀 (Mezun olana kadar tabi 🙄)
 - İyi okumalar 👻
 
+## 🤔 İçerik Desteğinde Bulunma veya Fikir Belirtme
+
+Verimli olabilecek yapı tekliflerine ve **yapıcı** eleştirilere açığım.
+
+- Tavsiyelerin veya hata tespitlerin varsa [🦋 Issue](https://github.com/yedhrab/IstanbulUniversity-CE/issues) açabilirsin
+- **Yapıcı** eleştiricileriniz veya fikirleriniz varsa sağ üst köşedeki  **[👉 Edit on Github](https://github.com/yedhrab/IstanbulUniversity-CE/blob/master/README.md)** alanından fikirlerinizi belitebilirsiniz
+  - Formata ([markdown](https://wiki.yemreak.com/programlama-notlari/markdown)'a) uygun şekilde öneride bulunursanız hoş olur 😊
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=8IZQZrFpVMI"><img src="https://img.youtube.com/vi/8IZQZrFpVMI/0.jpg" alt="🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma"></a>
+</div>
+
 ## 👷‍ Sayfaların Tasarımı ve Notların Tutulma Yapısı
 
 ```txt
@@ -30,18 +42,6 @@ En son gelen güncellemeleri [👀 Neler Değişti](./CHANGELOG.md) veya [✨ Co
   - ...
 - ...
 ```
-
-## 🤔 İçerik Desteğinde Bulunma veya Fikir Belirtme
-
-Verimli olabilecek yapı tekliflerine ve **yapıcı** eleştirilere açığım.
-
-- Tavsiyelerin veya hata tespitlerin varsa [🦋 Issue](https://github.com/yedhrab/IstanbulUniversity-CE/issues) açabilirsin
-- **Yapıcı** eleştiricileriniz veya fikirleriniz varsa sağ üst köşedeki  **[👉 Edit on Github](https://github.com/yedhrab/IstanbulUniversity-CE/blob/master/README.md)** alanından fikirlerinizi belitebilirsiniz
-  - Formata ([markdown](https://wiki.yemreak.com/programlama-notlari/markdown)'a) uygun şekilde öneride bulunursanız hoş olur 😊
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=8IZQZrFpVMI"><img src="https://img.youtube.com/vi/8IZQZrFpVMI/0.jpg" alt="🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma"></a>
-</div>
 
 ## 💖 Destek ve İletişim
 

@@ -17,6 +17,14 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
   This reverts commit 6a3051d1c02832579144fbead3bf6283f351091b.
 
+### 🗽 Düzeltmeler
+
+* 🐞✨ Sorunlar giderildi, güzelleştirildi. [Yunus Emre]
+
+  - Linkler artık github'ı açmak yerine direk olarak çalışıyor
+  - Sorunlu linkler giderildi
+  - İçeriklerde ufak düzenleme yapıldı
+
 ### 📡 Diğerler
 
 * GitBook: [master] 490 pages and 370 assets modified. [Yunus Emre]
