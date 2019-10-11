@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🌌 Değişikler
 
+* ✨ Linkler direkt değil, önizlemeli indirilmeye alındı. [Yunus Emre]
+
 * Revert "🚀 Artık dosyalara direkt olarak erişim var" [Yunus Emre]
 
   This reverts commit 53c5d8f4bc8139bde7ac9a1f25d2087e99582959.
