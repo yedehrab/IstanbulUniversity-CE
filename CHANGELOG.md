@@ -7,6 +7,12 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ## ✨ Güncel
 
+### 🚀 Yenilikler
+
+* 📄 Örnek proje planı ve teklif formu eklendi. [Yunus Emre]
+
+* ➕ Bitirme Projesi Form Örneği eklendi. [Yunus Emre]
+
 ### 🌌 Değişikler
 
 * ✨ Linkler direkt değil, önizlemeli indirilmeye alındı. [Yunus Emre]
