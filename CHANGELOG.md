@@ -17,6 +17,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🌌 Değişikler
 
+* Update SUMMARY.md. [Yunus Emre]
+
 * ✨ Linkler direkt değil, önizlemeli indirilmeye alındı. [Yunus Emre]
 
 * Revert "🚀 Artık dosyalara direkt olarak erişim var" [Yunus Emre]
