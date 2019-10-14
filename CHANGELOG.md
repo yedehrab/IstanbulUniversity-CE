@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🚀 Yenilikler
 
+* 📱 Öğrenci notları eklendi. [Yunus Emre]
+
 * 📄 Örnek proje planı ve teklif formu eklendi. [Yunus Emre]
 
 * ➕ Bitirme Projesi Form Örneği eklendi. [Yunus Emre]
