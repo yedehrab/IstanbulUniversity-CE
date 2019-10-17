@@ -1,6 +1,6 @@
-<!--Index-->
-
 # Summary
+
+<!--Index-->
 
 - [🏫 Istanbul University - CE](./README.md)
   - [👀 Neler değişti](./CHANGELOG.md)

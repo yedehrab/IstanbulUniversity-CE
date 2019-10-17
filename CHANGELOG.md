@@ -39,6 +39,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 📡 Diğerler
 
+* 💫 [Yunus Emre]
+
 * GitBook: [master] 490 pages and 370 assets modified. [Yunus Emre]
 
 
