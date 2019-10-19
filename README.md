@@ -4,44 +4,12 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını 
 
 # 🏫 Istanbul University - CE
 
-## 🗽 Hoş Geldin
+## 🙋‍ Hoş Geldin
 
 - **Sağ üstteki [🔍 Arama Buton](https://iuce.yemreak.com/?q=)'nu kullanmayı asla ama asla ihmal etme**
   - Hocaların ve derslerin adları, ders konuları vs. aratabilirsin
-
-## ✨ Son Güncellemeler
-
-En son gelen güncellemeleri [👀 Neler Değişti](./CHANGELOG.md) veya [✨ Commits](https://github.com/yedhrab/IstanbulUniversity-CE/commits/master) alanından takip edebilirsin.
-
-- 🌊 Yeni bilgiler öğrenmemle birlikle güncellenecektir
-- Yani hep güncel kalacak denebilir 🚀 (Mezun olana kadar tabi 🙄)
-- İyi okumalar 👻
-
-## 🤔 İçerik Desteğinde Bulunma veya Fikir Belirtme
-
-Verimli olabilecek yapı tekliflerine ve **yapıcı** eleştirilere açığım.
-
-- Tavsiyelerin veya hata tespitlerin varsa [🦋 Issue](https://github.com/yedhrab/IstanbulUniversity-CE/issues) açabilirsin
-- **Yapıcı** eleştiricileriniz veya fikirleriniz varsa sağ üst köşedeki  **[👉 Edit on Github](https://github.com/yedhrab/IstanbulUniversity-CE/blob/master/README.md)** alanından fikirlerinizi belitebilirsiniz
-  - Formata ([markdown](https://wiki.yemreak.com/programlama-notlari/markdown)'a) uygun şekilde öneride bulunursanız hoş olur 😊
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=8IZQZrFpVMI"><img src="https://img.youtube.com/vi/8IZQZrFpVMI/0.jpg" alt="🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma"></a>
-</div>
-
-## 👷‍ Sayfaların Tasarımı ve Notların Tutulma Yapısı
-
-```txt
-- Dönem
-  - Dersin Adı
-    - Öğrenci Notları
-    - Ders Notları
-    - Lab Notları
-    - Diğer notları
-    - ...
-  - ...
-- ...
-```
+- [💖 Katkıda Bulunma Rehberi](CONTRIBUTING.md) alanından projeye katkıda bulunabilirsin
+- [👀 Neler Değişti](./CHANGELOG.md) veya [✨ Commits](https://github.com/yedhrab/IstanbulUniversity-CE/commits/master) alanından değişiklikleri görebilirsin
 
 ## 💖 Destek ve İletişim
 
