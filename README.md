@@ -4,6 +4,8 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını 
 
 # 🏫 Istanbul University - CE
 
+![iu_ce](./res/iu-ce.png)
+
 ## 🙋‍ Hoş Geldin
 
 - **Sağ üstteki [🔍 Arama Buton](https://iuce.yemreak.com/?q=)'nu kullanmayı asla ama asla ihmal etme**
