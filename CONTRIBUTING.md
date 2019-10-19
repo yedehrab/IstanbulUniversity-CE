@@ -4,12 +4,14 @@ description: Projeye katkı sağlamak isteyenler için bilgilendirme
 
 # 💖 Katkıda Bulunma Rehberi
 
+<!-- TODO: Forkları güncelleme alanı eklenecek -->
+
 ## 💡 İçerik Desteğinde Bulunma veya Fikir Belirtme
 
 Verimli olabilecek yapı tekliflerine ve **yapıcı** eleştirilere açığım.
 
 - Tavsiyelerin veya hata tespitlerin varsa [🦋 Issue](https://github.com/yedhrab/IstanbulUniversity-CE/issues) açabilirsin
-- **Yapıcı** eleştiricileriniz veya fikirleriniz varsa sağ üst köşedeki  **[👉 Edit on Github](https://github.com/yedhrab/IstanbulUniversity-CE/blob/master/README.md)** alanından fikirlerinizi belitebilirsiniz
+- **Yapıcı** eleştiricileriniz veya fikirleriniz varsa sağ üst köşedeki  **🏹 Edit on Github** alanından fikirlerinizi belitebilirsiniz
 
 > 📌 **Formata ([markdown](https://wiki.yemreak.com/1-programlama-notlari/0-genel-notlar/2-markdown)'a) uygun şekilde katkıda bulunursanız hoş olur 😊**
 
@@ -49,9 +51,9 @@ Dosya uzantısı `.pdf` olacak şekilde adlandırma kuralı `<tip> <ders_kodu> ~
 
 ## 📑 İçerik Yazma Formatı
 
-Başlık ile alaklı bir emoji koyman verimlilik adına çok etkiliridir.
+Başlık ile alakalı bir emoji koyman verimlilik adına çok etkilidir.
 
-- Windows üzerinde, <kbd>❖ Win</kbd> <kbd>Ş</kbd> ile emoji klavyesini açabilrsin
+- Windows üzerinde, <kbd>❖ Win</kbd> <kbd>Ş</kbd> ile emoji klavyesini açabilirsin
 - Linux için [😎 Emoji Selector](https://extensions.gnome.org/extension/1162/emoji-selector/) eklentisini kullanabilirsin
 
 ```md
@@ -92,6 +94,7 @@ Giriş cümlesi veya alakalı cümle.
 - Butonlar ve tıklanabilir öğeler <kbd>button</kbd> `<kbd>button</kbd>`
 - Terimler _italik_ `_italik_`
   - Önce normal yaz, sonrasında <kbd>✲ Ctrl</kbd> + <kbd>H</kbd> ile metinleri italik hale dönüştür
-- Komutlar `code` `\``
+- Kalıplar ve sabit ifadeler \` arasına yazılmalı
+- Kodlar ``` arasına yazılmalı
 - Matematikler (latex) $latex$ `$$latex$$ (gitbook) veya $latex$ (github) `
 
