@@ -9,6 +9,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🚀 Yenilikler
 
+* 💖 Katkıda Bulunma Rehberi eklendi. [Yunus Emre]
+
 * 📱 Öğrenci notları eklendi. [Yunus Emre]
 
 * 📄 Örnek proje planı ve teklif formu eklendi. [Yunus Emre]
@@ -31,6 +33,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🗽 Düzeltmeler
 
+* ✨ Dosya isimleri düzeltildi. [Yunus Emre]
+
 * 🐞✨ Sorunlar giderildi, güzelleştirildi. [Yunus Emre]
 
   - Linkler artık github'ı açmak yerine direk olarak çalışıyor
@@ -38,6 +42,10 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
   - İçeriklerde ufak düzenleme yapıldı
 
 ### 📡 Diğerler
+
+* ✨ [Yunus Emre]
+
+* 🐞 [Yunus Emre]
 
 * 💫 [Yunus Emre]
 
