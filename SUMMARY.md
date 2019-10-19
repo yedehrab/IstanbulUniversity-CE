@@ -4,6 +4,7 @@
 
 - [🏫 Istanbul University - CE](./README.md)
   - [👀 Neler değişti](./CHANGELOG.md)
+  - [💖 Katkıda Bulunma Rehberi](./CONTRIBUTING.md)
   - [🧪 Computer Science](./0%20-%20Computer%20Science/README.md)
   - [📗 Ders Programları](./0%20-%20Ders%20Programlar%C4%B1/README.md)
   - [🏫 Okul Hakkında Bilgiler](./1%20-%20Okul%20Hakk%C4%B1nda%20Bilgiler/README.md)
