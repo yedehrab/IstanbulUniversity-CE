@@ -8,10 +8,10 @@ description: Projeye katkı sağlamak isteyenler için bilgilendirme
 
 ## 💡 İçerik Desteğinde Bulunma veya Fikir Belirtme
 
-Verimli olabilecek yapı tekliflerine ve **yapıcı** eleştirilere açığım.
+Verimli olabilecek yapı tekliflerine ve **yapıcı** eleştirilere açığız.
 
 - Tavsiyelerin veya hata tespitlerin varsa [🦋 Issue](https://github.com/yedhrab/IstanbulUniversity-CE/issues) açabilirsin
-- **Yapıcı** eleştiricileriniz veya fikirleriniz varsa sağ üst köşedeki  **🏹 Edit on Github** alanından fikirlerinizi belitebilirsiniz
+- **Yapıcı** eleştirileriniz veya fikirleriniz varsa sağ üst köşedeki  **🏹 Edit on Github** alanından fikirlerinizi belirtebilirsiniz
 
 > 📌 **Formata ([markdown](https://wiki.yemreak.com/1-programlama-notlari/0-genel-notlar/2-markdown)'a) uygun şekilde katkıda bulunursanız hoş olur 😊**
 
