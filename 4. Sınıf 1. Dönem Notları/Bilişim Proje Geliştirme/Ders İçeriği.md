@@ -1,4 +1,10 @@
+---
+descriotion: Derstte kullanılan slaytları barındırır.
+---
+
 # Ders İçeriği
+
+## 2018 Slayt İçeriği
 
 <!--Index-->
 

@@ -4,40 +4,12 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği 💻 notlarını 
 
 # 🏫 Istanbul University - CE
 
-## 🗽 Hoş Geldin
+## 🙋‍ Hoş Geldin
 
 - **Sağ üstteki [🔍 Arama Buton](https://iuce.yemreak.com/?q=)'nu kullanmayı asla ama asla ihmal etme**
   - Hocaların ve derslerin adları, ders konuları vs. aratabilirsin
-
-## ✨ Son Güncellemeler
-
-En son gelen güncellemeleri [👀 Neler Değişti](./CHANGELOG.md) veya [✨ Commits](https://github.com/yedhrab/IstanbulUniversity-CE/commits/master) alanından takip edebilirsin.
-
-- 🌊 Yeni bilgiler öğrenmemle birlikle güncellenecektir
-- Yani hep güncel kalacak denebilir 🚀 (Mezun olana kadar tabi 🙄)
-- İyi okumalar 👻
-
-## 👷‍ Sayfaların Tasarımı ve Notların Tutulma Yapısı
-
-```txt
-- Dönem
-  - Dersin Adı
-    - Öğrenci Notları
-    - Ders Notları
-    - Lab Notları
-    - Diğer notları
-    - ...
-  - ...
-- ...
-```
-
-## 🤔 İçerik Desteğinde Bulunma veya Fikir Belirtme
-
-Verimli olabilecek yapı tekliflerine ve **yapıcı** eleştirilere açığım.
-
-- Tavsiyelerin veya hata tespitlerin varsa [🦋 Issue](https://github.com/yedhrab/IstanbulUniversity-CE/issues) açabilirsin
-- **Yapıcı** eleştiricileriniz veya fikirleriniz varsa sağ üst köşedeki  **[👉 Edit on Github](%F0%9F%93%99%20Ders%20Se%C3%A7imi.md)** alanından fikirlerinizi belitebilirsiniz
-  - Formata (`markdown`'a) uygun şekilde öneride bulunursanız hoş olur 😊
+- [💖 Katkıda Bulunma Rehberi](CONTRIBUTING.md) alanından projeye katkıda bulunabilirsin
+- [👀 Neler Değişti](./CHANGELOG.md) veya [✨ Commits](https://github.com/yedhrab/IstanbulUniversity-CE/commits/master) alanından değişiklikleri görebilirsin
 
 ## 💖 Destek ve İletişim
 
@@ -61,4 +33,6 @@ Verimli olabilecek yapı tekliflerine ve **yapıcı** eleştirilere açığım.
 [bağış aylık]: https://www.patreon.com/yemreak/
 
 <!-- İletişim Sonu -->
+
+![iu_ce](./res/iu-ce.png)
 

@@ -1,9 +1,10 @@
-<!--Index-->
-
 # Summary
+
+<!--Index-->
 
 - [🏫 Istanbul University - CE](./README.md)
   - [👀 Neler değişti](./CHANGELOG.md)
+  - [💖 Katkıda Bulunma Rehberi](./CONTRIBUTING.md)
   - [🧪 Computer Science](./0%20-%20Computer%20Science/README.md)
   - [📗 Ders Programları](./0%20-%20Ders%20Programlar%C4%B1/README.md)
   - [🏫 Okul Hakkında Bilgiler](./1%20-%20Okul%20Hakk%C4%B1nda%20Bilgiler/README.md)
@@ -55,6 +56,7 @@
       - [Öğrenci Notları](./2.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Lojik%20Devre%20Tasar%C4%B1m%C4%B1/%C3%96%C4%9Frenci%20Notlar%C4%B1.md)
     - [Nesneye Yönelik Programlama](./2.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Nesneye%20Y%C3%B6nelik%20Programlama/README.md)
       - [Final](./2.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Nesneye%20Y%C3%B6nelik%20Programlama/Final.md)
+      - [Kitaplar](./2.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Nesneye%20Y%C3%B6nelik%20Programlama/Kitaplar.md)
       - [Sınav Soruları](./2.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Nesneye%20Y%C3%B6nelik%20Programlama/S%C4%B1nav%20Sorular%C4%B1.md)
       - [Vize](./2.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Nesneye%20Y%C3%B6nelik%20Programlama/Vize.md)
     - [Olasılık Teorisi ve İstatistik](./2.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Olas%C4%B1l%C4%B1k%20Teorisi%20ve%20%C4%B0statistik/README.md)
@@ -195,9 +197,13 @@
   - [📚 4. Sınıf 1. Dönem Notları](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/README.md)
     - [💡 Bilişim Proje Geliştirme](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bili%C5%9Fim%20Proje%20Geli%C5%9Ftirme/README.md)
       - [🗽 Açıklamalar](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bili%C5%9Fim%20Proje%20Geli%C5%9Ftirme/0%20-%20A%C3%A7%C4%B1klama.md)
-      - [Bilişim Proje Geliştirme Formlar vs](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bili%C5%9Fim%20Proje%20Geli%C5%9Ftirme/Bili%C5%9Fim%20Proje%20Geli%C5%9Ftirme%20Formlar%20vs.md)
+      - [2018 Formları](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bili%C5%9Fim%20Proje%20Geli%C5%9Ftirme/2018%20Formlar%C4%B1.md)
+      - [2018 Slaytları](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bili%C5%9Fim%20Proje%20Geli%C5%9Ftirme/2018%20Slaytlar%C4%B1.md)
+      - [Ders Sunumlari](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bili%C5%9Fim%20Proje%20Geli%C5%9Ftirme/Ders%20Sunumlari.md)
       - [Ders İçeriği](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bili%C5%9Fim%20Proje%20Geli%C5%9Ftirme/Ders%20%C4%B0%C3%A7eri%C4%9Fi.md)
-      - [Öğrenci Notları](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bili%C5%9Fim%20Proje%20Geli%C5%9Ftirme/%C3%96%C4%9Frenci%20Notlar%C4%B1.md)
+      - [Formlar](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bili%C5%9Fim%20Proje%20Geli%C5%9Ftirme/Formlar.md)
+      - [Ödevler Hakkında](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bili%C5%9Fim%20Proje%20Geli%C5%9Ftirme/%C3%96devler%20Hakk%C4%B1nda.md)
+      - [✍ Öğrenci Notları](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bili%C5%9Fim%20Proje%20Geli%C5%9Ftirme/%C3%96%C4%9Frenci%20Notlar%C4%B1.md)
     - [🗯 Bulanık Mantık](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bulan%C4%B1k%20Mant%C4%B1k/README.md)
       - [Ders İçeriği](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bulan%C4%B1k%20Mant%C4%B1k/Ders%20%C4%B0%C3%A7eri%C4%9Fi.md)
       - [Harf Notu](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Bulan%C4%B1k%20Mant%C4%B1k/Harf%20Notu.md)
@@ -212,6 +218,7 @@
       - [Ders Notları](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Mobile%20Programming/Ders%20Notlar%C4%B1.md)
       - [Harf Notu Dağılımı](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Mobile%20Programming/Harf%20Notu%20Da%C4%9F%C4%B1l%C4%B1m%C4%B1.md)
       - [Sınav Soruları](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Mobile%20Programming/S%C4%B1nav%20Sorular%C4%B1.md)
+      - [Öğrenci Notları](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Mobile%20Programming/%C3%96%C4%9Frenci%20Notlar%C4%B1.md)
     - [🧠 Neural Networks](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Neural%20Networks/README.md)
       - [Ders İçeriği](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Neural%20Networks/Ders%20%C4%B0%C3%A7eri%C4%9Fi.md)
       - [Harf Notu](./4.%20S%C4%B1n%C4%B1f%201.%20D%C3%B6nem%20Notlar%C4%B1/Neural%20Networks/Harf%20Notu.md)
@@ -243,7 +250,6 @@
     - [Uygulamalı Girişimcilik](./4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Uygulamal%C4%B1%20Giri%C5%9Fimcilik/README.md)
       - [Karma İçerikler](./4.%20S%C4%B1n%C4%B1f%202.%20D%C3%B6nem%20Notlar%C4%B1/Uygulamal%C4%B1%20Giri%C5%9Fimcilik/Karma%20%C4%B0%C3%A7erikler.md)
   - [📚 Karışık Notlar](./5.1%20Kar%C4%B1%C5%9F%C4%B1k%20Notlar/README.md)
-  - [🧾 PDFs](./PDFs/README.md)
 
 <!--Index-->
 

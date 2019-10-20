@@ -9,6 +9,55 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🚀 Yenilikler
 
+* 💖 Katkıda Bulunma Rehberi eklendi. [Yunus Emre]
+
+* 📱 Öğrenci notları eklendi. [Yunus Emre]
+
+* 📄 Örnek proje planı ve teklif formu eklendi. [Yunus Emre]
+
+* ➕ Bitirme Projesi Form Örneği eklendi. [Yunus Emre]
+
+### 🌌 Değişikler
+
+* Update SUMMARY.md. [Yunus Emre]
+
+* ✨ Linkler direkt değil, önizlemeli indirilmeye alındı. [Yunus Emre]
+
+* Revert "🚀 Artık dosyalara direkt olarak erişim var" [Yunus Emre]
+
+  This reverts commit 53c5d8f4bc8139bde7ac9a1f25d2087e99582959.
+
+* Revert "GitBook: [master] 490 pages and 370 assets modified" [Yunus Emre]
+
+  This reverts commit 6a3051d1c02832579144fbead3bf6283f351091b.
+
+### 🗽 Düzeltmeler
+
+* ✨ Dosya isimleri düzeltildi. [Yunus Emre]
+
+* 🐞✨ Sorunlar giderildi, güzelleştirildi. [Yunus Emre]
+
+  - Linkler artık github'ı açmak yerine direk olarak çalışıyor
+  - Sorunlu linkler giderildi
+  - İçeriklerde ufak düzenleme yapıldı
+
+### 📡 Diğerler
+
+* ✨ [Yunus Emre]
+
+* 🐞 [Yunus Emre]
+
+* 💫 [Yunus Emre]
+
+* GitBook: [master] 490 pages and 370 assets modified. [Yunus Emre]
+
+
+## 2.0 (2019-10-10)
+
+### 🚀 Yenilikler
+
+* 🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma videosu eklendi. [Yunus Emre]
+
 * 📗 Ders Programları eklendi. [Yunus Emre]
 
 * Bilişim proje geliştirme ödev teslim takvimi eklendi. [Yunus Emre]
@@ -18,6 +67,36 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 * 16BitMipsVHDL.pdf eklendi. [Yunus Emre]
 
 ### 🌌 Değişikler
+
+* 🚀 Artık dosyalara direkt olarak erişim var. [Yunus Emre]
+
+  - 🐞 GitHub'a yönlendirme sorunu giderildi
+  - ✨ Güzelleştirme yapıldı
+
+* Revert "🚀 Artık dosyalar GitHub'tan bağımsız 🚀" [Yunus Emre]
+
+  This reverts commit 025bd081bf2f1fef314055bc394d62f20281de8e.
+
+* Revert "🐞 Dosyaların gözükmeme sorunu giderildi" [Yunus Emre]
+
+  This reverts commit 3c807d4e2022e803d09bb55b6fa61c52c4a19605.
+
+* 🚀 Artık dosyalar GitHub'tan bağımsız 🚀 [Yunus Emre]
+
+  - Dosyaların GitHub'a yönlendirmesi engellendi
+  - WebSitesi üzerinden direkt olarak indirilebilmekte
+
+* Update README.md. [Yunus Emre]
+
+* 🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma videosu yenilendi. [Yunus Emre]
+
+* Revert "Update PULL_REQUEST_TEMPLATE.md" [Yunus Emre]
+
+  This reverts commit 94b372670cf2fb21f15afeeded148b531765dcd0.
+
+* Update PULL_REQUEST_TEMPLATE.md. [Yunus Emre]
+
+* Bilişim proje geliştirme içerikleri yenilendi. [Yunus Emre]
 
 * Update README.md. [Yunus Emre]
 
@@ -35,6 +114,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 
 ### 🗽 Düzeltmeler
 
+* 🐞 Dosyaların gözükmeme sorunu giderildi. [Yunus Emre]
+
 * 🔗🐞 Akademik Kadro link sorunları giderildi. [Yunus Emre]
 
 * Önemsiz düzeltme. [Yunus Emre]
@@ -44,6 +125,8 @@ description: Sitede neler olup bittiğinin 📜 raporudur. Buradaki terimleri �
 * 🐞 Hatalar giderildi. [Yunus Emre]
 
 ### 📡 Diğerler
+
+* 🏫 Istanbul University CE İÜ CE~ YEmreAk Katkıda Bulunma. [Yunus Emre]
 
 * ✨ Yapıda güzelleştirme ve süsleme yapıldı. [Yunus Emre]
 
